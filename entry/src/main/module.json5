@@ -1,0 +1,107 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.NFC_CARD_EMULATION",
+        "reason": "$string:EntryAbility_desc"
+      },
+      {
+        "name": "ohos.permission.NFC_TAG",
+        "reason": "$string:EntryAbility_desc"
+      },
+      {
+        "name": "ohos.permission.INTERNET",
+        "reason": "$string:EntryAbility_desc"
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        "reason": "$string:app_name",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.LOCATION",
+        "reason": "$string:app_name",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home",
+              "ohos.nfc.cardemulation.action.HOST_APDU_SERVICE"
+            ],
+          }
+        ],
+        "metadata": [
+          {
+            "name": "payment-aid",
+            "value": "325041592E5359532E4444463031"
+          },
+          {
+            "name": "payment-aid",
+            "value": "A0000000041010"
+          },
+          {
+            "name": "payment-aid",
+            "value": "A0000000042203"
+          },
+          {
+            "name": "payment-aid",
+            "value": "A0000000031010"
+          },
+          {
+            "name": "client_id",
+            "value": "6917597974229602779"
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ]
+  }
+}

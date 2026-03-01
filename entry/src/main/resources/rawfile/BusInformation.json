@@ -1,0 +1,3428 @@
+{
+  "busInformationResponse": [
+    {
+      "busNumber": 5,
+      "busMap": "NARLIDERE - UCKUYULAR ISKELE",
+      "busMapDescription": "MITHAT PASA CAD. - 9 EYLUL HASTANESI-F.ALTAY AKT.",
+      "description": null,
+      "busStartPoint": "NARLIDERE",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 6,
+      "busMap": "ARIKENT - UCKUYULAR ISK.",
+      "busMapDescription": "MITHAT PASA CAD. - 9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "ARIKENT",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 7,
+      "busMap": "SAHILEVLERI - UCKUYULAR ISK.",
+      "busMapDescription": "MITHAT PASA CAD. - 9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "SAHILEVLERI",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 8,
+      "busMap": "GUZELBAHCE - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "SEFERIHISAR KAVSAGI-MITHAT PASA CAD. - 9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "GUZELBAHCE",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 9,
+      "busMap": "OZZUMRUT EVLERI - SITELER",
+      "busMapDescription": "MITHATPASA CAD.- ISTIKBAL CAD.",
+      "description": null,
+      "busStartPoint": "OZZUMRUT EVLERI",
+      "busFinishPoint": "SITELER"
+    },
+    {
+      "busNumber": 10,
+      "busMap": "UCKUYULAR ISKELE - KONAK",
+      "busMapDescription": "MITHATPASA CAD.-ASANSOR-KARATAS",
+      "description": null,
+      "busStartPoint": "UCKUYULAR ISKELE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 15,
+      "busMap": "INONU - KONAK",
+      "busMapDescription": "CANKAYA MAH.-NOKTA-INONU CAD.",
+      "description": null,
+      "busStartPoint": "INONU MAH.",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 16,
+      "busMap": "VATAN MAHALLESI - UCYOL",
+      "busMapDescription": "POLAT CAD.-YILDIZ CAD.-ORDU CAD.",
+      "description": null,
+      "busStartPoint": "VATAN MAH.",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 17,
+      "busMap": "UZUNDERE TOPLU KONUTLARI - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "CEVRE YOLU-LIMONTEPE KAVSAGI",
+      "description": null,
+      "busStartPoint": "UZUNDERE TOPLU KONUTLARI",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 18,
+      "busMap": "YESILYURT - KONAK",
+      "busMapDescription": "ATATURK EGT.ARS.HAST.-ORDU CAD.- VARYANT",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "YESILYURT",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 19,
+      "busMap": "SEHITLER - KONAK",
+      "busMapDescription": "BASIN SITESI-ATATURK EGT. ARS.HAST.- UCYOL",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "SEHITLER",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 20,
+      "busMap": "KOOPERATIF EVLERI - KONAK",
+      "busMapDescription": "SAIM CIKRIKCI CAD.-BOZYAKA EGT. ARS.HAST.-UCYOL",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "KOOP. EVLERI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 21,
+      "busMap": "HALIL RIFAT PASA - KONAK",
+      "busMapDescription": "SATO",
+      "description": "HATTIMIZ RING HAT OLUP HALIL RIFAT PASA'DAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "HALIL RIFAT PASA",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 23,
+      "busMap": "UZUNDERE - KONAK",
+      "busMapDescription": "ESKIIZMIR CAD.-ESREFPASA-VARYANT",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "UZUNDERE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 24,
+      "busMap": "KAVACIK - UCKUYULAR ISKELE",
+      "busMapDescription": "TIRAZLI-LIMONTEPE KAVSAGI-CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "KAVACIK",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 25,
+      "busMap": "OYUNLAR KOYU - UCKUYULAR ISKELE",
+      "busMapDescription": "CEVRE YOLU-LIMONTEPE KAVSAGI",
+      "description": null,
+      "busStartPoint": "OYUNLAR KOYU",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 27,
+      "busMap": "CAMLIK - KONAK",
+      "busMapDescription": "KARABAGLAR-ESREFPASA-VARYANT",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "CAMLIK",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 28,
+      "busMap": "KAVACIK - GUZELBAHCE",
+      "busMapDescription": "PAYAMLI - KUCUKKAYA KOYU",
+      "description": null,
+      "busStartPoint": "KAVACIK",
+      "busFinishPoint": "GUZELBAHCE"
+    },
+    {
+      "busNumber": 29,
+      "busMap": "KADRIYE MAH. - KONAK",
+      "busMapDescription": "ESREFPASA-VARYANT",
+      "description": null,
+      "busStartPoint": "KADRIYE MAH.",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 30,
+      "busMap": "KAYNAK - KONAK",
+      "busMapDescription": "HASAN OZDEMIR MAH.- ESREFPASA -VARYANT",
+      "description": null,
+      "busStartPoint": "KAYNAK",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 32,
+      "busMap": "CIMENTEPE SITESI - KONAK",
+      "busMapDescription": "ESREFPASA-VARYANT",
+      "description": null,
+      "busStartPoint": "CIMENTEPE SITESI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 33,
+      "busMap": "KADIFEKALE - KONAK",
+      "busMapDescription": "ESREFPASA-VARYANT",
+      "description": null,
+      "busStartPoint": "KADIFEKALE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 34,
+      "busMap": "ESENTEPE - GUMRUK",
+      "busMapDescription": "TOROS - Y.KEMER - BASMANE",
+      "description": null,
+      "busStartPoint": "ESENTEPE",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 35,
+      "busMap": "BALLIKUYU - KONAK",
+      "busMapDescription": "KAPILAR - BASMANE",
+      "description": null,
+      "busStartPoint": "BALLIKUYU",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 36,
+      "busMap": "SIRINYER AKTARMA MERKEZI - GUMRUK",
+      "busMapDescription": "YESILDERE - KAPILAR - BASMANE",
+      "description": null,
+      "busStartPoint": "SIRINYER AKT.",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 39,
+      "busMap": "ISMETPASA MAH. - GUMRUK",
+      "busMapDescription": "CIMENLI CAMI - KEMER - BASMANE",
+      "description": null,
+      "busStartPoint": "ISMETPASA",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 41,
+      "busMap": "LEVENT - GUMRUK",
+      "busMapDescription": "LEVENT - KEMER AKTARMA MERKEZI - BASMANE",
+      "description": "Levent'ten 06.00, ve 06.25, servisleri Toros Meydan Duragi'ndan baslar.",
+      "busStartPoint": "LEVENT",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 42,
+      "busMap": "CINARTEPE - GUMRUK",
+      "busMapDescription": "LEVENT - KEMER - BASMANE",
+      "description": null,
+      "busStartPoint": "CINARTEPE",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 44,
+      "busMap": "MERSINPINAR - GUMRUK",
+      "busMapDescription": "BOGAZICI - YENISEHIR HASTANELER - BASMANE",
+      "description": null,
+      "busStartPoint": "MERSINPINAR",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 45,
+      "busMap": "GULTEPE - GUMRUK",
+      "busMapDescription": "BOGAZICI - YENISEHIR HASTANELER - BASMANE",
+      "description": null,
+      "busStartPoint": "GULTEPE",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 46,
+      "busMap": "COBANCESME - GUMRUK",
+      "busMapDescription": "LEVENT - KEMER - BASMANE",
+      "description": null,
+      "busStartPoint": "COBANCESME",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 49,
+      "busMap": "TEPECIK EGITIM ARASTIRMA HASTANESI - LOZAN MEYDANI",
+      "busMapDescription": "BASMANE GAR- GAZILER CAD.- KEMER AKTARMA MERKEZI",
+      "description": "HATTIMIZ RING HAT OLUP TEPECIK EGITIM ARASTIRMA HASTANESINDEN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "TEPECIK EGITIM ARASTIRMA HASTANESI",
+      "busFinishPoint": "LOZAN MEYDANI"
+    },
+    {
+      "busNumber": 53,
+      "busMap": "MTK ALTINDAG - HALKAPINAR METRO",
+      "busMapDescription": "ALTINDAG - KEMALPASA CAD. - 1. SANAYI",
+      "description": null,
+      "busStartPoint": "ALTINDAG",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 54,
+      "busMap": "OTOGAR - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "YESILOVA - MERSINLI - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 57,
+      "busMap": "ALTINDAG - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "ALTINDAG - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "ALTINDAG",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 58,
+      "busMap": "KANDERE - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "KANDERE",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 59,
+      "busMap": "BORNOVA METRO - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "KARACAOGLAN MAH. - KAMIL TUNCA - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "BORNOVA METRO",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 60,
+      "busMap": "PINARBASI - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "5. SANAYI - KEMALPASA CAD. - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "PINARBASI",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 64,
+      "busMap": "AYAKKABICILAR SIT. - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "ISIKKENT - KEMALPASA CAD. - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "AYAKKABICILAR SITESI",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 67,
+      "busMap": "PINARBASI - EVKA3 METRO",
+      "busMapDescription": "5. SANAYI - PINAR CAD. - DOGANLAR",
+      "description": null,
+      "busStartPoint": "PINARBASI",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 72,
+      "busMap": "ISCIEVLERI - KONAK",
+      "busMapDescription": "SIRINYER - ESREFPASA - IKICESMELIK",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "ISCIEVLERI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 74,
+      "busMap": "YENIGUN MAH. - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "INKILAP IST.- KOSU YOLU",
+      "description": null,
+      "busStartPoint": "YENIGUN MAH.",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 77,
+      "busMap": "NAFIZ GURMAN - HALKAPINAR METRO 2",
+      "busMapDescription": "GUMUSPALA - EMEK MAH. - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "NAFIZ GURMAN",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 78,
+      "busMap": "YAMANLAR - HALKAPINAR METRO 2",
+      "busMapDescription": "SOGUKKUYU - BAYRAKLI - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "YAMANLAR",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 82,
+      "busMap": "SITELER - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "MITHATPASA CAD.-NARLIDERE-9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "SITELER",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 84,
+      "busMap": "SALIH OMURTAK - UCYOL METRO",
+      "busMapDescription": "SAIM CIKRIKCI CAD.-BOZYAKA EGT.ARS.HAST.",
+      "description": null,
+      "busStartPoint": "SALIH OMURTAK",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 89,
+      "busMap": "CENNETOGLU - UCYOL METRO",
+      "busMapDescription": "ZINCIRLIKUYU-BOZYAKA EGT.ARS.HAST.",
+      "description": null,
+      "busStartPoint": "CENNETOGLU",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 92,
+      "busMap": "FUAR IZMIR - UCYOL METRO",
+      "busMapDescription": "AKTEPE MAH. - KARABAGLAR - HALIDE EDIP ADIVAR CAD.",
+      "description": "Ucyol'dan 07:25 servisi Yeni Fuar Alani havuz onune cikar. Aksam 17:05 servisi Yeni Fuar Alani havuz onunden baslar.",
+      "busStartPoint": "FUAR IZMIR",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 102,
+      "busMap": "ALPASLAN MAH. - HALKAPINAR METRO",
+      "busMapDescription": "MANAS BULV - ADLIYE",
+      "description": null,
+      "busStartPoint": "ALPARSLAN MAH.",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 104,
+      "busMap": "BUCA TOPLU KONUTLARI - KONAK",
+      "busMapDescription": "DOKUZ CESMELER - SIRINYER - IKICESMELIK",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "BUCA TOPLU KONUTLARI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 105,
+      "busMap": "CAMLIKULE - KONAK",
+      "busMapDescription": "AKINCILAR MAH. - ESREFPASA - IKICESMELIK",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "CAMLIKULE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 108,
+      "busMap": "ESERKENT - UCYOL METRO",
+      "busMapDescription": "UGUR MUMCU-YESILKAYA",
+      "description": null,
+      "busStartPoint": "ESERKENT",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 111,
+      "busMap": "NALDOKEN - EVKA3 METRO",
+      "busMapDescription": "TURKAN OZILHAN DEV.HAST. - 4.SANAYI",
+      "description": null,
+      "busStartPoint": "NALDOKEN",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 114,
+      "busMap": "EVKA 3 - EVKA3 METRO",
+      "busMapDescription": "PROFESORLER SIT. - CENGIZHAN CAD.",
+      "description": null,
+      "busStartPoint": "EVKA 3",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 117,
+      "busMap": "KAVAKLIDERE - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "5.SANAYI SITESI- ALTINDAG - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "KAVAKLIDERE",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 119,
+      "busMap": "ALTINDAG - BORNOVA METRO",
+      "busMapDescription": "YESILOVA - MERSINLI - E.U. HASTANESI",
+      "description": null,
+      "busStartPoint": "ALTINDAG",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 121,
+      "busMap": "MAVISEHIR AKTARMA MERKEZI - KONAK",
+      "busMapDescription": "KARSIYAKA - ALTINYOL - TALATPASA",
+      "description": null,
+      "busStartPoint": "MAVISEHIR AKTARMA MERKEZI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 123,
+      "busMap": "SIRINEVLER - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "EGEKENT DEVLET HASTANESI",
+      "description": null,
+      "busStartPoint": "SIRINEVLER",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 124,
+      "busMap": "ALI FUAT ERDEN - UCYOL METRO",
+      "busMapDescription": "ESKIIZMIR CAD.-SAIM CIKRIKCI CAD.-BOZYAKA EGT.ARS.HAST.",
+      "description": null,
+      "busStartPoint": "ALI FUAT ERDEN",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 125,
+      "busMap": "MUSTAFA KEMAL MAH - HALKAPINAR METRO2",
+      "busMapDescription": "ESIN SIT.  - CUMHURIYET MAH. - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "MUSTAFA KEMAL MAH.",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 126,
+      "busMap": "CUMHURIYET MAH. - KARSIYAKA",
+      "busMapDescription": "SERINKUYU - GIRNE",
+      "description": null,
+      "busStartPoint": "CUMHURIYET MAH.",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 128,
+      "busMap": "EGEKENT 2 - EGEKENT AKTARMA ",
+      "busMapDescription": "30 AGUSTOS MAH. - CANAKKALE ASFALTI",
+      "description": null,
+      "busStartPoint": "EGEKENT 2",
+      "busFinishPoint": "EGEKENT AKTARMA"
+    },
+    {
+      "busNumber": 135,
+      "busMap": "DOGANCAY - KARSIYAKA",
+      "busMapDescription": "KUBILAY CAD. - SOGUKKUYU - GIRNE",
+      "description": null,
+      "busStartPoint": "DOGANCAY",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 136,
+      "busMap": "ORNEKKOY - KARSIYAKA",
+      "busMapDescription": "ZUBEYDE HANIM MAH. - DEDEBASI - GIRNE",
+      "description": "06:00-13:00 saatleri arasi Karsiyaka?dan 13:00-17:30 saatleri arasi Ornekkoy?den yapilan servislerde mezarliga ugramaktadir.",
+      "busStartPoint": "ORNEKKOY",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 137,
+      "busMap": "YAMANLAR - KARSIYAKA",
+      "busMapDescription": "SOGUKKUYU-GIRNE",
+      "description": null,
+      "busStartPoint": "YAMANLAR",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 140,
+      "busMap": "ORNEKKOY - HALKAPINAR METRO2",
+      "busMapDescription": "DEDEBASI - BAYRAKLI - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "ORNEKKOY",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 147,
+      "busMap": "POSTACI - HALKAPINAR METRO2",
+      "busMapDescription": "YENI GIRNE - BAYRAKLI - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "POSTACI",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 148,
+      "busMap": "ONUR MAH. - HALKAPINAR METRO2",
+      "busMapDescription": "YENI GIRNE - BAYRAKLI - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "ONUR MAH.",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 149,
+      "busMap": "KAKLIC - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "ESKI HAVAALANI CADDESI",
+      "description": null,
+      "busStartPoint": "KAKLIC",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 152,
+      "busMap": "GAZIEMIR - KONAK",
+      "busMapDescription": "KARABAGLAR- UCYOL -VARYANT",
+      "description": null,
+      "busStartPoint": "GAZIEMIR",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 153,
+      "busMap": "CAMKULE - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "MANIFATURACILAR SIT. - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "CAMKULE",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 154,
+      "busMap": "ALTINDAG - HALKAPINAR METRO",
+      "busMapDescription": "MANIFATURACILAR SIT. - GAZILER CAD. - 1. SANAYI SIT.",
+      "description": null,
+      "busStartPoint": "ALTINDAG",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 156,
+      "busMap": "SAGLIK OCAGI - UCYOL METRO",
+      "busMapDescription": "KARABAGLAR - HALIDE EDIP ADIVAR BULV.",
+      "description": null,
+      "busStartPoint": "SAGLIK OCAGI",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 157,
+      "busMap": "AKTEPE MAHALLESI - KONAK",
+      "busMapDescription": "PEKER MAHALLESI - KARABAGLAR -  VARYANT",
+      "description": null,
+      "busStartPoint": "AKTEPE MAH.",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 167,
+      "busMap": "BALCOVA KABRISTAN - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "ATA CAD.-MITHATPASA CAD.",
+      "description": null,
+      "busStartPoint": "BALCOVA KABRISTAN",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 168,
+      "busMap": "EVKA 4 - HALKAPINAR METRO",
+      "busMapDescription": "ATATURK MAH. - OSMANGAZI MAH.- ANKARA ASFALTI",
+      "description": null,
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 171,
+      "busMap": "TINAZTEPE - KONAK",
+      "busMapDescription": "BUCA KOOP. - AKINCILAR MAH. - ESREFPASA",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 176,
+      "busMap": "DEMIRCIKOY - ADATEPE",
+      "busMapDescription": "KARACAAGAC - KIRKLAR - BELENBASI",
+      "description": null,
+      "busStartPoint": "DEMIRCIKOY",
+      "busFinishPoint": "ADATEPE"
+    },
+    {
+      "busNumber": 177,
+      "busMap": "KAYNAKLAR - ADATEPE",
+      "busMapDescription": "SEBZE HALI - Y. MEZARLIK",
+      "description": null,
+      "busStartPoint": "KAYNAKLAR",
+      "busFinishPoint": "ADATEPE"
+    },
+    {
+      "busNumber": 193,
+      "busMap": "YURTOGLU - KONAK",
+      "busMapDescription": "CENNETCESME - BOZYAKA - ESREFPASA",
+      "description": null,
+      "busStartPoint": "YURTOGLU",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 196,
+      "busMap": "NAFIZ GURMAN - KARSIYAKA ISKELE",
+      "busMapDescription": "GUMUSPALA - NALDOKEN -TERSHANE",
+      "description": null,
+      "busStartPoint": "NAFIZ GURMAN",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 197,
+      "busMap": "NAFIZ GURMAN - KARSIYAKA",
+      "busMapDescription": "GUMUSPALA - GIRNE",
+      "description": null,
+      "busStartPoint": "NAFIZ GURMAN",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 200,
+      "busMap": "MAVISEHIR AKTARMA MERKEZI - HAVALIMANI",
+      "busMapDescription": "KARSIYAKA - YESILDERE - GAZIEMIR",
+      "description": null,
+      "busStartPoint": "MAVISEHIR AKT.",
+      "busFinishPoint": "HAVALIMANI"
+    },
+    {
+      "busNumber": 202,
+      "busMap": "CUMHURIYET MEYDANI - HAVALIMANI",
+      "busMapDescription": "MUSTAFA KEMAL SAHIL BULV.-F. ALTAY-CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "CUMHURIYET MEYDANI",
+      "busFinishPoint": "HAVALIMANI"
+    },
+    {
+      "busNumber": 204,
+      "busMap": "BORNOVA METRO - HAVALIMANI",
+      "busMapDescription": "OTOGAR-CEVRE YOLU-AKCAY CAD.",
+      "description": null,
+      "busStartPoint": "BORNOVA METRO",
+      "busFinishPoint": "HAVALIMANI"
+    },
+    {
+      "busNumber": 206,
+      "busMap": "SIRINYER AKTARMA MERKEZI - HAVALIMANI",
+      "busMapDescription": null,
+      "description": null,
+      "busStartPoint": "SIRINYER AKTARMA MERKEZI",
+      "busFinishPoint": "HAVALIMANI"
+    },
+    {
+      "busNumber": 214,
+      "busMap": "EVKA3 METRO - KEMER",
+      "busMapDescription": "BORNOVA MERKEZ - MERSINLI - YENSEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "EVKA3 METRO",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 221,
+      "busMap": "SEMIKLER - BOSTANLI ISKELE",
+      "busMapDescription": "BESTEKAR YUSUF NALKESEN SK.-SEHITLER BULV.-BOSTANLI MAH.",
+      "description": null,
+      "busStartPoint": "SEMIKLER",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 222,
+      "busMap": "SEMIKLER - KARSIYAKA ISKELE",
+      "busMapDescription": "ANADOLU CAD. - GIRNE",
+      "description": null,
+      "busStartPoint": "SEMIKLER",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 224,
+      "busMap": "CENNETCESME - KONAK",
+      "busMapDescription": "ESKIIZMIR CAD. - BOZYAKA - ESREFPASA",
+      "description": null,
+      "busStartPoint": "CENNETCESME",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 229,
+      "busMap": "YAKAKENT MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "CIGLI - ATAKENT",
+      "description": "Olumsuz Hava Kosullari'nda Camlikent Meydan, Camlikent Cikis ve Camlikent duraklarina hizmet verilemeyecektir.",
+      "busStartPoint": "YAKAKENT MAHALLESI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 233,
+      "busMap": "ESBAS AKTARMA MERKEZI - KONAK",
+      "busMapDescription": "BEYAZEVLER - AKINCILAR - ESREFPASA",
+      "description": null,
+      "busStartPoint": "ESBAS AKT",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 234,
+      "busMap": "BALLIKUYU-GUMRUK",
+      "busMapDescription": "Yesildere Cd.-Esrefpasa Cd.-Ikicesmelik",
+      "description": null,
+      "busStartPoint": "BALLIKUYU",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 240,
+      "busMap": "ZUBEYDE HANIM MAH. - HALKAPINAR METRO2",
+      "busMapDescription": "YENI GIRNE - ALTINYOL",
+      "description": null,
+      "busStartPoint": "ZUBEYDE HANIM MAH.",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 247,
+      "busMap": "EVKA 6 - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "AYDINLIK EVLER MAH.",
+      "description": null,
+      "busStartPoint": "EVKA-6",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 249,
+      "busMap": "EVKA 4 - KEMER",
+      "busMapDescription": "OSMANGAZI - ADLIYE - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 253,
+      "busMap": "H.PINAR METRO 2 - KONAK",
+      "busMapDescription": "ALSANCAK-TALATPASA-CUMHURIYET BULV.",
+      "description": null,
+      "busStartPoint": "HALKAPINAR METRO",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 258,
+      "busMap": "ONUR MAH. - KARSIYAKA",
+      "busMapDescription": "POSTACI MAH. - GIRNE",
+      "description": null,
+      "busStartPoint": "ONUR MAH.",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 259,
+      "busMap": "YESILOVA MAHALLESI - BORNOVA METRO",
+      "busMapDescription": "ABDI IPEKCI CAD. - KARACAOGLAN MAHALLESI",
+      "description": "HATTIMIZ RING HAT OLUP YESILOVA MAHALLESINDEN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "YESILOVA MAHALLESI",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 267,
+      "busMap": "PINARBASI - BORNOVA METRO",
+      "busMapDescription": "5. SANAYI SIT. - AYAKKABICILAR - ISIKKENT",
+      "description": null,
+      "busStartPoint": "PINARBASI",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 268,
+      "busMap": "DOGANLAR - BORNOVA METRO",
+      "busMapDescription": "MEVLANA MAH.",
+      "description": null,
+      "busStartPoint": "DOGANLAR",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 277,
+      "busMap": "OTOGAR - TINAZTEPE",
+      "busMapDescription": "HAYVAN BARINAGI - GOKDERE - YENI KABRISTAN",
+      "description": null,
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "TINAZTEPE"
+    },
+    {
+      "busNumber": 285,
+      "busMap": "EVKA 1 - KONAK",
+      "busMapDescription": "SIRINYER - ESREFPASA - IKICESMELIK",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "EVKA-1",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 290,
+      "busMap": "BOSTANLI ISKELE - TINAZTEPE",
+      "busMapDescription": "KARSIYAKA ISKELE-ALTINYOL-ANKARA CD.-CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "BOSTANLI",
+      "busFinishPoint": "TINAZTEPE"
+    },
+    {
+      "busNumber": 295,
+      "busMap": "HARMANDALI - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "Cumhuriyet Mah. - Ugur Mumcu Mah. - Canakkale Asfalti",
+      "description": null,
+      "busStartPoint": "HARMANDALI",
+      "busFinishPoint": "EGEKENT AKT."
+    },
+    {
+      "busNumber": 302,
+      "busMap": "OTOGAR - KONAK",
+      "busMapDescription": "KEMALPASA CAD. - YENISEHIR HASTANELER - GAZI BULV.",
+      "description": null,
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 303,
+      "busMap": "BUCA HEYKEL - KONAK",
+      "busMapDescription": "MENDERES CADDESI-HOMEROS BULV. - KONAK TUNELI",
+      "description": null,
+      "busStartPoint": "BUCA HEYKEL",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 304,
+      "busMap": "TINAZTEPE-KONAK",
+      "busMapDescription": "MENDERES CAD.- HOMEROS BULV. - KONAK TUNELLERI",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 305,
+      "busMap": "2. INONU MAH. - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "MITHAT PASA CAD. - 9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "2.INONU",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 311,
+      "busMap": "INCIRALTI - F.ALTAY",
+      "busMapDescription": "MITHAT PASA CAD.",
+      "description": null,
+      "busStartPoint": "INCIRALTI",
+      "busFinishPoint": "ESENTEPE"
+    },
+    {
+      "busNumber": 313,
+      "busMap": "YENI MEZARLIK - BORNOVA METRO",
+      "busMapDescription": "ESKI MEZARLIK - GENCLIK CAD.",
+      "description": null,
+      "busStartPoint": "YENI MEZARLIK",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 314,
+      "busMap": "EVKA 3 - BORNOVA METRO",
+      "busMapDescription": "4. SANAYI SIT. - TURKAN OZILHAN DEVLET HASTANESI - SUPHI KOYUNCU LISESI",
+      "description": null,
+      "busStartPoint": "EVKA 3",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 315,
+      "busMap": "KARACAM - EVKA3 METRO",
+      "busMapDescription": "MANISA YOLU",
+      "description": null,
+      "busStartPoint": "KARACAM",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 316,
+      "busMap": "BESYOL - EVKA3 METRO",
+      "busMapDescription": "YAKAKOY - CICEKLIKOY - SARNICKOY",
+      "description": "Hafta ici gunleri hattimizin Besyol Mahallesi kalkisli 06.10 servisi Sarnickoy Mahallesi'nden baslayacak olup, Evka3 Metro kalkisli 19.25 servisi ise Sarnickoy Mahallesi'nde son durak yapacaktir.",
+      "busStartPoint": "BESYOL",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 317,
+      "busMap": "KAVAKLIDERE - EVKA3 METRO",
+      "busMapDescription": "YESILCAM - HACILARKIRI - TURKAN OZILHAN DEVLET HASTANESI",
+      "description": null,
+      "busStartPoint": "KAVAKLIDERE",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 321,
+      "busMap": "CAMLI - F. ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "YELKI - GUZELBAHCE - MITHATPASA",
+      "description": null,
+      "busStartPoint": "CAMLI MAH.",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 322,
+      "busMap": "MUSTAFA KEMAL MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "ESIN SITESI-CEVRE YOLU-CAHER DUDAYEV BULV.",
+      "description": null,
+      "busStartPoint": "MUSTAFA KEMAL MAHALLESI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 326,
+      "busMap": "MUSTAFA KEMAL MAH. - KARSIYAKA",
+      "busMapDescription": "INONU MAH. - CUMHURIYET MAH. -  GIRNE",
+      "description": null,
+      "busStartPoint": "MUSTAFA KEMAL MAH.",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 327,
+      "busMap": "INONU MAHALLESI-BOSTANLI ISKELE",
+      "busMapDescription": "CEVREYOLU-CUMHURIYET MAH.-CAHER DUDAYEV BULV.",
+      "description": "Hattimiz ring hat olup Inonu Mahallesinden saat uygulamasi yoktur. Ancak hafta ici ve cumartesi gunleri 06:00 servisi Soyak Izsu duragindan baslamaktadir.",
+      "busStartPoint": "INONU MAHALLESI",
+      "busFinishPoint": "BOSTANLI"
+    },
+    {
+      "busNumber": 328,
+      "busMap": "EVKA 3 METRO - SALHANE AKTARMA MERKEZI",
+      "busMapDescription": "BORNOVA HUKUMET KONAGI-MANAVKUYU ",
+      "description": null,
+      "busStartPoint": "EVKA3 METRO",
+      "busFinishPoint": "SALHANE AKT."
+    },
+    {
+      "busNumber": 329,
+      "busMap": "GUZELTEPE - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "CIGLI KOOP - SIRINTEPE",
+      "description": null,
+      "busStartPoint": "GUZELTEPE",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 330,
+      "busMap": "BOSTANLI ISKELE - EVKA3 METRO",
+      "busMapDescription": "KARSIYAKA ISKELE-BAYRAKLI-MANAVKUYU-BORNOVA",
+      "description": null,
+      "busStartPoint": "BOSTANLI ISKELE",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 335,
+      "busMap": "DOGANCAY - HALKAPINAR METRO 2",
+      "busMapDescription": "GUMUSPALA-TURAN-SALHANE",
+      "description": null,
+      "busStartPoint": "DOGAN CAY MEYD",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 338,
+      "busMap": "EVKA 3 METRO - SALHANE AKTARMA MERKEZI",
+      "busMapDescription": "GEDIZ CAD. - YZB. IBRAHIM HAKKI CAD. - SMYRNA MEYDANI",
+      "description": null,
+      "busStartPoint": "EVKA3 METRO",
+      "busFinishPoint": "SALHANE AKT."
+    },
+    {
+      "busNumber": 342,
+      "busMap": "EGEKENT - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "IZKENT MAH.",
+      "description": null,
+      "busStartPoint": "EGEKENT",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 344,
+      "busMap": "EVKA 2 - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "CIGLI EMNIYET MUD.",
+      "description": null,
+      "busStartPoint": "EVKA-2",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 346,
+      "busMap": "EVKA 5 - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "ESENTEPE MAH.",
+      "description": "Olumsuz hava kosullarinda Dogan, Gezer, Zirve ve Izkent Son Durak duraklari kullanilmayacaktir.",
+      "busStartPoint": "EVKA-5",
+      "busFinishPoint": "EGEKENT AKT."
+    },
+    {
+      "busNumber": 353,
+      "busMap": "GAZIEMIR - TINAZTEPE",
+      "busMapDescription": "ONDER CAD. - BEYAZ EVLER MAH. - GAZETECI YAZAR ISMAIL SIVRI BULV.",
+      "description": null,
+      "busStartPoint": "GAZIEMIR",
+      "busFinishPoint": "TINAZTEPE"
+    },
+    {
+      "busNumber": 358,
+      "busMap": "PINARBASI - BORNOVA METRO",
+      "busMapDescription": "PINARBASI - HURDACILAR SITESI - MEVLANA MAH.",
+      "description": null,
+      "busStartPoint": "PINARBASI",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 359,
+      "busMap": "R.SEVKET INCE MAH. - SALHANE AKTARMA MERKEZI",
+      "busMapDescription": "2140 SK.-CAY MAH.-SMYRNA MEYDANI",
+      "description": null,
+      "busStartPoint": "R.SEVKET INCE MAH.",
+      "busFinishPoint": "SALHANE AKT."
+    },
+    {
+      "busNumber": 361,
+      "busMap": "BAHRIYE UCOK - KARSIYAKA ISKELE",
+      "busMapDescription": "GIRNE - CEMAL GURSEL CAD.",
+      "description": null,
+      "busStartPoint": "BAHRIYE UCOK",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 364,
+      "busMap": "GERIKAZANIMCILAR SITESI - HALKAPINAR METRO",
+      "busMapDescription": "KARA NAKLIYECILER SITESI - OTOGAR - KAMIL TUNCA",
+      "description": null,
+      "busStartPoint": "GERIKAZANIMCILAR SITESI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 365,
+      "busMap": "KAYADIBI - EVKA3 METRO",
+      "busMapDescription": "HOMEROS VADISI - CAMICI - EGRIDERE",
+      "description": null,
+      "busStartPoint": "KAYADIBI",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 367,
+      "busMap": "UMIT MAH. - KEMER AKTARMA MERKEZI",
+      "busMapDescription": "UMIT MH.-DOGANLAR MH.-MEVLANA MH.-YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "UMIT MAH.",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 368,
+      "busMap": "UMIT MAH. - BORNOVA METRO",
+      "busMapDescription": "MEVLANA MAH.",
+      "description": null,
+      "busStartPoint": "UMIT MAH.",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 374,
+      "busMap": "IZKENT - KONAK",
+      "busMapDescription": "SIRINYER - ESREFPASA - IKICESMELIK",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "IZKENT",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 390,
+      "busMap": "TINAZTEPE - BORNOVA METRO",
+      "busMapDescription": "OTOYOL",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 412,
+      "busMap": "TINAZTEPE - YERLESKE",
+      "busMapDescription": "FEN BILIMLERI ENST.-FEN EDEBIYAT FAK.-MUHENDISLIK FAK.",
+      "description": "Hattimiz hafta ici gunleri saat 18.30'a kadar Turizm Fakultesi'ne hizmet verir.",
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "YERLESKE"
+    },
+    {
+      "busNumber": 417,
+      "busMap": "BUCA KOOP - KONAK",
+      "busMapDescription": "IZBAN KOSU - KONAK TUNEL",
+      "description": null,
+      "busStartPoint": "BUCA KOOP",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 418,
+      "busMap": "SIRINYER AKTARMA MERKEZI - H.PINAR METRO",
+      "busMapDescription": "GURCESME - YENISEHIR HASTANELER - 1. SANAYI SIT.",
+      "description": null,
+      "busStartPoint": "SIRINYER AKT.",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 423,
+      "busMap": "SIRINEVLER - BOSTANLI ISKELE",
+      "busMapDescription": "KENT HASTANESI - ATAKENT",
+      "description": null,
+      "busStartPoint": "SIRINEVLER",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 426,
+      "busMap": "MUSTAFA KEMAL MAH - HALKAPINAR METRO2",
+      "busMapDescription": "IZMIR CEVRE YOLU  - YENI GIRNE - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "MUSTAFA KEMAL MAH",
+      "busFinishPoint": "HALKAPINAR METRO2"
+    },
+    {
+      "busNumber": 428,
+      "busMap": "EGEKENT 2 - BOSTANLI ISKELE",
+      "busMapDescription": "ULUKENT - CIGLI - ATAKENT",
+      "description": "Koruklu Araclar Ulukent Ilkogretim Okulu, Ulucak Cami, Ulukent Meydan, Ulukent Cikis, Celalettin Akar Duraklarina Ugramamaktadir.",
+      "busStartPoint": "EGEKENT-2",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 429,
+      "busMap": "GUZELTEPE - BOSTANLI ISKELE",
+      "busMapDescription": "CIGLI - SIRINTEPE - ATAKENT",
+      "description": null,
+      "busStartPoint": "GUZELTEPE",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 430,
+      "busMap": "YAKAKENT MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "YUKSEK VADI EVLERI - ESIN SIT.-GIRNE",
+      "description": "Olumsuz Hava Kosullari'nda Camlikent Meydan, Camlikent Cikis ve Camlikent duraklarina hizmet verilemeyecektir. ",
+      "busStartPoint": "YAKAKENT MAHALLESI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 434,
+      "busMap": "KORFEZ MAHALLESI - HALKAPINAR METRO 2",
+      "busMapDescription": "CEVRE YOLU - ANADOLU CAD. - SALHANE YOLU",
+      "description": null,
+      "busStartPoint": "KORFEZ EVLERI",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 435,
+      "busMap": "KORFEZ MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "CEVRE YOLU - GIRNE",
+      "description": null,
+      "busStartPoint": "KORFEZ EVLERI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 441,
+      "busMap": "CINARTEPE - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "ESENTEPE - YIKIKKEMER",
+      "description": null,
+      "busStartPoint": "CINARTEPE",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 442,
+      "busMap": "ATATURK MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "AHMET YESEVI BULV.- IZKENT MAH.-KENT HASTANESI",
+      "description": "Olumsuz hava kosullarinda Dogan, Gezer, Zirve ve Izkent Son Durak duraklari kullanilmayacaktir.",
+      "busStartPoint": "ATATURK MAH.",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 443,
+      "busMap": "EGEKENT - BOSTANLI ISKELE",
+      "busMapDescription": "IZKENT MAH.-CIGLI - ATAKENT",
+      "description": null,
+      "busStartPoint": "EGEKENT",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 445,
+      "busMap": "EVKA 2 - BOSTANLI ISKELE",
+      "busMapDescription": "MALTEPE - CIGLI - ATAKENT",
+      "description": null,
+      "busStartPoint": "EVKA-2",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 446,
+      "busMap": "EVKA 5 - BOSTANLI ISKELE",
+      "busMapDescription": "ESENTEPE - CIGLI - ATAKENT",
+      "description": "Olumsuz hava kosullarinda Dogan, Gezer, Zirve ve Izkent Son Durak duraklari kullanilmayacaktir.",
+      "busStartPoint": "EVKA-5",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 447,
+      "busMap": "EVKA 6 - BOSTANLI ISKELE",
+      "busMapDescription": "AYDINLIKEVLER - CIGLI - ATAKENT",
+      "description": null,
+      "busStartPoint": "EVKA-6",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 449,
+      "busMap": "IZYUVA - EVKA3 METRO",
+      "busMapDescription": "SARAYKENT",
+      "description": null,
+      "busStartPoint": "IZYUVA",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 465,
+      "busMap": "TINAZTEPE - KONAK",
+      "busMapDescription": "AHMET YESEVI CAD. - ENHOSLAR-  ESREFPASA",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 466,
+      "busMap": "SIRINYER AKTARMA MERKEZI - KONAK",
+      "busMapDescription": "GURCESME - GAZILER CAD. - BASMANE",
+      "description": null,
+      "busStartPoint": "SIRINYER AKT.",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 470,
+      "busMap": "TINAZTEPE - LOZAN MEYDANI",
+      "busMapDescription": "ESREFPASA - IKICESMELIK",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "LOZAN MEYDANI"
+    },
+    {
+      "busNumber": 471,
+      "busMap": "TINAZTEPE - KONAK",
+      "busMapDescription": "Buca Seyfi Demirsoy Devlet Hastanesi-Sirinyer-Esrefpasa",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 475,
+      "busMap": "TINAZTEPE UNIVERSITESI - HALKAPINAR METRO",
+      "busMapDescription": "TELSIZLER-TOROZ CAD - BOGAZICI CAD",
+      "description": "Hattimiz Semt Pazari'nin kuruldugu gunlerde Samsun Caddesi guzergahini kullanmaktadir.",
+      "busStartPoint": "TINAZTEPE UNIVERSITESI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 476,
+      "busMap": "TINAZTEPE - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "KURUCESME - BUCA KOOP - MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 477,
+      "busMap": "NAFIZ GURMAN - HALKAPINAR METRO2",
+      "busMapDescription": "GUMUSPALA - NALDOKEN - ALTINYOL",
+      "description": null,
+      "busStartPoint": "NAFIZ GURMAN",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 480,
+      "busMap": "INCIRALTI - UCKUYULAR ISKELE",
+      "busMapDescription": "BALCOVA - ATA CAD.-F. ALTAY",
+      "description": null,
+      "busStartPoint": "INCIRALTI",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 481,
+      "busMap": "INCIRALTI - BALCOVA",
+      "busMapDescription": "BAHCELERARASI- YILDIZ SOKAK - UCKUYULAR ISKELE",
+      "description": null,
+      "busStartPoint": "INCIRALTI",
+      "busFinishPoint": "BALCOVA"
+    },
+    {
+      "busNumber": 484,
+      "busMap": "YESILBAGLAR - KONAK",
+      "busMapDescription": "INKILAP ISTASYON - AKINCILAR - ESREFPASA",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "YESILBAGLAR",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 485,
+      "busMap": "GAZIEMIR ILCE TERMINALI - KONAK",
+      "busMapDescription": "GOKSU - YESILBAGLAR - FIRAT",
+      "description": "HATTIMIZ RING HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "GAZIEMIR ILCE TERMINALI",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 486,
+      "busMap": "OYAK SITESI - INCIRALTI",
+      "busMapDescription": "BAKU BULV.-UCKUYULAR ISKELE",
+      "description": null,
+      "busStartPoint": "OYAK SITESI",
+      "busFinishPoint": "INCIRALTI"
+    },
+    {
+      "busNumber": 487,
+      "busMap": "DEMIRKOPRU - KARSIYAKA",
+      "busMapDescription": "GUNSAZAK BULV. - GIRNE",
+      "description": null,
+      "busStartPoint": "DEMIRKOPRU",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 490,
+      "busMap": "TINAZTEPE - UCYOL",
+      "busMapDescription": "DOKUZ CESMELER - SIRINYER - HALIDE EDIP ADIVAR CAD.",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 491,
+      "busMap": "EVKA 7 - ESBAS AKTARMA MERKEZI",
+      "busMapDescription": "IRMAK MAH.-GAZIEMIR ILCE MERKEZI-SARNIC",
+      "description": null,
+      "busStartPoint": "EVKA 7",
+      "busFinishPoint": "SARNIC AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 498,
+      "busMap": "EVKA 3 METRO - HALKAPINAR METRO",
+      "busMapDescription": "DUMLUPINAR CAD. - YZB IBRAHIM HAKKI CAD. - ADLIYE",
+      "description": null,
+      "busStartPoint": "EVKA3 METRO",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 501,
+      "busMap": "CICEK MAH. - HALKAPINAR METRO",
+      "busMapDescription": "MANAS BULV - ADLIYE - CINARLI EML.",
+      "description": null,
+      "busStartPoint": "CICEK MAH.",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 502,
+      "busMap": "CENGIZHAN - HALKAPINAR METRO",
+      "busMapDescription": "BAYRAKLI SEHIR HASTANESI - MANAS BULV - ADLIYE - CINARLI EML.",
+      "description": null,
+      "busStartPoint": "CENGIZHAN",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 503,
+      "busMap": "BARIS KAHVESI - HALKAPINAR METRO",
+      "busMapDescription": "CAY MAH - ADLIYE - CINARLI EML.",
+      "description": "HAFTA ICI GUNLERI SABAH 06.50-07.10-07.30-07.50-08.10-08.30 SERVISLERI CAY MAHALLESI SON DURAKTAN BASLAR.",
+      "busStartPoint": "BARIS KAHVESI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 504,
+      "busMap": "FUAT EDIP BAKSI - HALKAPINAR METRO",
+      "busMapDescription": "MANAS BULV - ADLIYE - CINARLI EML.",
+      "description": null,
+      "busStartPoint": "F.EDIP BAKSI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 505,
+      "busMap": "CAMKULE - BORNOVA METRO",
+      "busMapDescription": "ALTINDAG - OTOGAR - BORNOVA ANADOLU LISESI",
+      "description": null,
+      "busStartPoint": "CAMKULE",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 508,
+      "busMap": "MENDERES - KONAK",
+      "busMapDescription": "KARABAGLAR-UCYOL-VARYANT",
+      "description": null,
+      "busStartPoint": "MENDERES",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 510,
+      "busMap": "GAZIEMIR - BALCOVA",
+      "busMapDescription": "SERBEST BOLGE - CEVRE YOLU-F.ALTAY",
+      "description": null,
+      "busStartPoint": "GAZIEMIR",
+      "busFinishPoint": "BALCOVA"
+    },
+    {
+      "busNumber": 513,
+      "busMap": "GAZI MEYDANI - HALKAPINAR METRO",
+      "busMapDescription": "CAY MAH - ADLIYE - CINARLI EML.",
+      "description": null,
+      "busStartPoint": "GAZI MEYDANI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 515,
+      "busMap": "TINAZTEPE - EVKA3 METRO",
+      "busMapDescription": "MANAVKUYU-ADLIYE-YESILDERE-MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 516,
+      "busMap": "YENITEPE EVLERI - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "UZUNDERE - AKTEPE",
+      "description": null,
+      "busStartPoint": "YENITEPE EVLERI",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 517,
+      "busMap": "UZUNDERE TOPLU KONUTLARI - F.ALTAY ",
+      "busMapDescription": "IHSAN ALYANAK BUL. - POLIGON METRO",
+      "description": null,
+      "busStartPoint": "UZUNDERE TOPLU KONUTLARI",
+      "busFinishPoint": "F.ALTAY"
+    },
+    {
+      "busNumber": 520,
+      "busMap": "SALIH OMURTAK - UCYOL METRO",
+      "busMapDescription": "ATATURK EGT.ARS.HAST.- BASIN SITESI - KOOP EVLERI",
+      "description": null,
+      "busStartPoint": "SALIH OMURTAK",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 522,
+      "busMap": "UZUNDERE TOPLU KONUTLARI - UCYOL METRO",
+      "busMapDescription": "ESKI IZMIR CAD. - BOZYAKA EGT. ARS. HAST.",
+      "description": null,
+      "busStartPoint": "UZUNDERE TOPLU KONUTLARI",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 523,
+      "busMap": "UZUNDERE - UCYOL METRO",
+      "busMapDescription": "IHSAN ALYANAK BUL. - ATATURK EGIT. VE ARAS. HAST.",
+      "description": null,
+      "busStartPoint": "UZUNDERE",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 524,
+      "busMap": "CENNETCESME - UCYOL METRO",
+      "busMapDescription": "YURTOGLU - IHSAN ALYANAK BULVARI-ATATURK EGITIM ARASTIRMA HASTANESI",
+      "description": null,
+      "busStartPoint": "CENNETCESME",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 529,
+      "busMap": "YAKAKENT MAHALLESI - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "SIRINTEPE - CIGLI KOOP.",
+      "description": "Olumsuz Hava Kosullari'nda Yakakent Son Durak, Camlikent Meydan, Camlikent Cikis , Camlikent duraklarina hizmet verilemeyecektir.",
+      "busStartPoint": "YAKAKENT MAHALLESI",
+      "busFinishPoint": "CIGLI AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 532,
+      "busMap": "BAYRAKLI SEHIR HASTANESI - BOSTANLI ISKELE",
+      "busMapDescription": "GIRNE BULVARI",
+      "description": "HATTIMIZ RING HAT OLUP HASTANEDEN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "SEHIR HASTANESI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 533,
+      "busMap": "BAYRAKLI SEHIR HASTANESI - BORNOVA METRO",
+      "busMapDescription": "CEVRE YOLU",
+      "description": "HATTIMIZ RING HAT OLUP HASTANEDEN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "SEHIR HASTANESI",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 534,
+      "busMap": "BAYRAKLI SEHIR HASTANESI -  HALKAPINAR METRO",
+      "busMapDescription": "YUZBASI IBRAHIM HAKKI CAD. SMYRNA MEYDANI",
+      "description": "HATTIMIZ RING HAT OLUP HASTANEDEN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "BAYRAKLI SEHIR HASTANESI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 535,
+      "busMap": "BAYRAKLI SEHIR HASTANESI - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "Anadolu Caddesi - Yeni Girne Caddesi",
+      "description": "HATTIMIZ RING HAT OLUP BAYRAKLI SEHIR HASTANESINDEN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "BAYRAKLI SEHIR HASTANESI",
+      "busFinishPoint": "EGEKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 537,
+      "busMap": "BAYRAKLI SEHIR HASTANESI-DOGANCAY ",
+      "busMapDescription": "Yamanlar - Org. Nafiz Gurman - Emek - Gumuspala - Korfez",
+      "description": null,
+      "busStartPoint": "BAYRAKLI SEHIR HASTANESI",
+      "busFinishPoint": "DOGANCAY"
+    },
+    {
+      "busNumber": 539,
+      "busMap": "YENITEPE EVLERI - SALHANE AKTARMA MERKEZI",
+      "busMapDescription": "YESILDERE - MERSINLI - ADLIYE",
+      "description": null,
+      "busStartPoint": "YENITEPE EVLERI",
+      "busFinishPoint": "SALHANE AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 543,
+      "busMap": "BOSTANLI ISKELE - H.PINAR METRO",
+      "busMapDescription": "BAYRAKLI - ADLIYE - MERSINLI",
+      "description": null,
+      "busStartPoint": "BOSTANLI ISKELE",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 547,
+      "busMap": "CIGLI AKTARMA MERKEZI - BOSTANLI ISKELE",
+      "busMapDescription": "ATASEHIR MAH.-CAHER DUDAYEV BULV.-SEHITLER BULV",
+      "description": null,
+      "busStartPoint": "CIGLI AKT.",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 550,
+      "busMap": "GUNALTAY - KONAK",
+      "busMapDescription": "ESERKENT-ZINCIRLIKUYU-UCYOL",
+      "description": null,
+      "busStartPoint": "GUNALTAY",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 551,
+      "busMap": "NARLIDERE - F.ALTAY",
+      "busMapDescription": "NARLIDERE ISTIHKAM - 9 EYLUL HAST - SAKARYA CAD.",
+      "description": null,
+      "busStartPoint": "NARLIDERE",
+      "busFinishPoint": "F.ALTAY"
+    },
+    {
+      "busNumber": 555,
+      "busMap": "OTOGAR - HALKAPINAR METRO",
+      "busMapDescription": "YESILOVA - MERSINLI",
+      "description": null,
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 556,
+      "busMap": "CAMLIK - UCYOL METRO",
+      "busMapDescription": "DOSTLUK BULVARI-ZINCIRLI KUYU - BOZYAKA EGT.ARS.HAST.",
+      "description": null,
+      "busStartPoint": "CAMLIK",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 557,
+      "busMap": "BAYRAKLI TOPLU KONUTLAR - BAYRAKLI IZBAN ",
+      "busMapDescription": "CENGIZHAN - ALPASLAN",
+      "description": "HATTIMIZ RING HAT OLUP BAYRAKLI IZBANDAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "BAYRAKLI TOPLU KONUTLAR",
+      "busFinishPoint": "BAYRAKLI IZBAN"
+    },
+    {
+      "busNumber": 558,
+      "busMap": "BAYRAKLI TOPLU KONUTLARI - BORNOVA METRO EKSPRES",
+      "busMapDescription": "CEVRE YOLU-EGE UNIVERSITESI HASTANESI",
+      "description": null,
+      "busStartPoint": "BAYRAKLI TOPLU KONUTLARI",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 559,
+      "busMap": "BAYRAKLI TOPLU KONUTLARI - EVKA3 METRO",
+      "busMapDescription": "Cevreyolu - Ozkanlar - Bornova Hukumet Konagi",
+      "description": null,
+      "busStartPoint": "BAYRAKLI TOPLU KONUTLARI",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 560,
+      "busMap": "PINARBASI - HALKAPINAR METRO",
+      "busMapDescription": "5.SANAYI - OTOGAR - KAMIL TUNCA",
+      "description": null,
+      "busStartPoint": "PINARBASI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 564,
+      "busMap": "AYAKKABICILAR SITESI - HALKAPINAR METRO",
+      "busMapDescription": "ISIKKENT - OTOGAR - KAMIL TUNCA",
+      "description": null,
+      "busStartPoint": "AYAKKABICILAR SITESI",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 565,
+      "busMap": "EVKA 4 - BORNOVA METRO",
+      "busMapDescription": "INONU MAH. - HUKUMET KONAGI",
+      "description": null,
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 566,
+      "busMap": "EVKA 4 - BORNOVA METRO",
+      "busMapDescription": "ERSOY CAD.- HUKUMET KONAGI",
+      "description": "Hattimiz 06:00 - 09:00 saatleri arasinda ring yapmaktadir.",
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 568,
+      "busMap": "EVKA 4 - BORNOVA METRO",
+      "busMapDescription": "ATATURK MAH. - OSMANGAZI - BORNOVA MERKEZ",
+      "description": null,
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 570,
+      "busMap": "LAKA MAHALLESI - BORNOVA METRO",
+      "busMapDescription": "DUMLUPINAR CAD. - BORNOVA MERKEZ",
+      "description": null,
+      "busStartPoint": "LAKA MAH.",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 575,
+      "busMap": "MALIYECILER MAHALLESI - UCYOL METRO",
+      "busMapDescription": "Ataturk Egt. Ars. Hast. - Ordu Caddesi",
+      "description": null,
+      "busStartPoint": "MALIYECILER MAHALLESI",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 577,
+      "busMap": "NAFIZ GURMAN-HALKAPINAR METRO 2",
+      "busMapDescription": "NAFIZ GURMAN - KUBILAY CAD. - HALKAPINAR METRO 2",
+      "description": null,
+      "busStartPoint": "NAFIZ GURMAN",
+      "busFinishPoint": "HALKAPINAR METRO 2"
+    },
+    {
+      "busNumber": 579,
+      "busMap": "YESILYURT - UCYOL METRO",
+      "busMapDescription": "ATATURK EGT.ARS.HAST.-ORDU CAD.",
+      "description": "HATTIMIZ RING HAT OLUP UCYOL METRO'DAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "YESILYURT",
+      "busFinishPoint": "UCYOL METRO"
+    },
+    {
+      "busNumber": 584,
+      "busMap": "INONU MAH. - BORNOVA METRO",
+      "busMapDescription": "INONU MAH. - ATATURK MAH.",
+      "description": null,
+      "busStartPoint": "INONU MAH.",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 585,
+      "busMap": "EVKA 4 - BORNOVA METRO",
+      "busMapDescription": "ATATURK MAH. - HURRIYET CAD. - ERSOY CAD.",
+      "description": null,
+      "busStartPoint": "EVKA-4",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 587,
+      "busMap": "LIMONTEPE - KONAK",
+      "busMapDescription": "ESKIIZMIR CAD.-SAIM CIKRIKCI CAD.-BOZYAKA EGT.ARS.HAST.",
+      "description": null,
+      "busStartPoint": "LIMONTEPE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 588,
+      "busMap": "YENI CAMLIK - KONAK",
+      "busMapDescription": "BARIS MAHALLESI-BOZYAKA - KILIMCITEPE",
+      "description": null,
+      "busStartPoint": "YENI CAMLIK",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 595,
+      "busMap": "9 EYLUL MAHALLESI - BOSTANLI ISKELE",
+      "busMapDescription": "KATIP CELEBI UNIVERSITESI - ATASEHIR - ATAKENT",
+      "description": null,
+      "busStartPoint": "9 EYLUL MAH.",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 596,
+      "busMap": "KATIP CELEBI UNIVERSITESI - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "KATIP CELEBI UNIVERSITESI",
+      "description": null,
+      "busStartPoint": "KATIP CELEBI UNIVERSITESI",
+      "busFinishPoint": "EGEKENT AKT."
+    },
+    {
+      "busNumber": 597,
+      "busMap": "M. ERENER - BAYRAKLI SEVGI YOLU ",
+      "busMapDescription": "CAY MAHALLESI",
+      "description": "HAFTA ICI GUNLERI BAYRAKLI SEVGI YOLUNDAN 16.00 SERVISI ADLIYEDEN BASLAR.",
+      "busStartPoint": "M. ERENER",
+      "busFinishPoint": "BAYRAKLI SEVGI YOLU"
+    },
+    {
+      "busNumber": 598,
+      "busMap": "BAYRAKLI TOPLU KONUTLARI - BAYRAKLI IZBAN",
+      "busMapDescription": "CENGIZHAN - BAYRAKLI SEVGI YOLU",
+      "description": "HATTIMIZ RING HAT OLUP BAYRAKLI IZBANDAN SAAT UYGULAMASI YOKTUR.",
+      "busStartPoint": "BAYRAKLI TOPLU KONUTLARI",
+      "busFinishPoint": "BAYRAKLI IZBAN"
+    },
+    {
+      "busNumber": 599,
+      "busMap": "M.ERENER - HALKAPINAR METRO",
+      "busMapDescription": "BAYRAKLI SEHIR HASTANESI - CAY MAH. - ADLIYE - CINARLI EML.",
+      "description": null,
+      "busStartPoint": "M.ERENER",
+      "busFinishPoint": "HALKAPINAR METRO"
+    },
+    {
+      "busNumber": 602,
+      "busMap": "MENEMEN AKTARMA - IZMIR OTOGAR ",
+      "busMapDescription": "ANADOLU CD. - PARK BORNOVA  ",
+      "description": "ESHOT otogar son duragini kullanmaktadir.",
+      "busStartPoint": "MENEMEN AKTARMA",
+      "busFinishPoint": "IZMIR OTOGAR"
+    },
+    {
+      "busNumber": 608,
+      "busMap": "EGEKENT 2 - IZMIR OTOGAR ",
+      "busMapDescription": "HARMANDALI - ANADOLU CD. - PARK BORNOVA ",
+      "description": null,
+      "busStartPoint": "EGEKENT 2",
+      "busFinishPoint": "IZMIR OTOGAR"
+    },
+    {
+      "busNumber": 609,
+      "busMap": "KOFUNDERE-ODEMIS",
+      "busMapDescription": "Kaymakci-Odemis Muzesi",
+      "description": null,
+      "busStartPoint": "KOFUNDERE",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 610,
+      "busMap": "FUAR IZMIR - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "AKTEPE - AKCAY CAD.",
+      "description": "Hafta ici gunleri 06.45 servisi Esbas Aktarma Merkezi'nden baslar.",
+      "busStartPoint": "FUAR IZMIR",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 611,
+      "busMap": "CAYLI-ODEMIS",
+      "busMapDescription": "Kaymakci-Yolustu-Odemis Muzesi",
+      "description": null,
+      "busStartPoint": "CAYLI",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 616,
+      "busMap": "KAYMAKCI-ODEMIS",
+      "busMapDescription": "Kaymakci Cezaevi-Odemis Muzesi",
+      "description": null,
+      "busStartPoint": "KAYMAKCI",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 618,
+      "busMap": "ERTUGRULKOY-ODEMIS",
+      "busMapDescription": "Odemis Muzesi",
+      "description": null,
+      "busStartPoint": "ERTUGRUL KOY",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 619,
+      "busMap": "SEYREK - ULUKENT AKTARMA MERKEZI 2 ",
+      "busMapDescription": "BAKIRCAY UNIVERSITESI - GUNERLI MAH.",
+      "description": null,
+      "busStartPoint": "SEYREK",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 621,
+      "busMap": "KURUCUOVA-ODEMIS",
+      "busMapDescription": "Gereli-Gercekli-Odemis Muzesi",
+      "description": null,
+      "busStartPoint": "KURUCUOVA",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 640,
+      "busMap": "SIGACIK - SEFERIHISAR",
+      "busMapDescription": "Siteler - Akkum Cad. - Sigacik Cad. ",
+      "description": null,
+      "busStartPoint": "SIGACIK",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 641,
+      "busMap": "SEFERIHISAR TOKI - SEFERIHISAR",
+      "busMapDescription": "GOZSUZLER CAD. - KARAKAYALAR CAD.",
+      "description": null,
+      "busStartPoint": "SEFERIHISAR TOKI",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 642,
+      "busMap": "AKARCA - SEFERIHISAR",
+      "busMapDescription": "Haritacilar Sitesi - Akarca Cad. - Tuzla Cad.",
+      "description": null,
+      "busStartPoint": "AKARCA",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 643,
+      "busMap": "DEREKOY - BERGAMA",
+      "busMapDescription": "IVRINDI YOLU - TURANLI YOLU",
+      "description": "Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "DEREKOY",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 644,
+      "busMap": "GOCBEYLI - BERGAMA",
+      "busMapDescription": "BOLCEK - KADIKOY - AYASKENT",
+      "description": "Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "GOCBEYLI",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 645,
+      "busMap": "YENIKENT - BERGAMA",
+      "busMapDescription": "ASAGIKIRIKLAR - SULEYMANLI - OVACIK",
+      "description": null,
+      "busStartPoint": "YENIKENT",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 646,
+      "busMap": "BERGAMA ORGANIZE SANAYI BOLGESI - BERGAMA",
+      "busMapDescription": "SAGANCI - PINARKOY - NARLICA - CAMKOY",
+      "description": null,
+      "busStartPoint": "BERGAMA ORGANIZE SANAYI BOLGESI",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 648,
+      "busMap": "GAZI MAHALLESI - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "GOC IDARESI-INCIRLI PINAR MAH.-MENEMEN DEV. HAST.",
+      "description": null,
+      "busStartPoint": "GAZI MAHALLESI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 650,
+      "busMap": "FUAR IZMIR - BALCOVA",
+      "busMapDescription": "CEVRE YOLU-F.ALTAY-UCKUYULAR ISKELE",
+      "description": null,
+      "busStartPoint": "FUAR IZMIR",
+      "busFinishPoint": "BALCOVA"
+    },
+    {
+      "busNumber": 651,
+      "busMap": "OTOGAR - YILDIZEVLER",
+      "busMapDescription": "Hastane-Bayatli",
+      "description": "Carsamba gunleri 06:00-20:00 saatleri arasinda Pazar kurulmasi nedeniyle; Saltukbey, Okul ve Bakircay Lisesi duraklarimiz kullanim disi kalmaktadir. Ayrica hattimiz ring hat olup,Yildizevler'den saat uygulamasi yoktur.",
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "YILDIZEVLER"
+    },
+    {
+      "busNumber": 652,
+      "busMap": "OTOGAR - OGRETMENEVI",
+      "busMapDescription": "Hastane",
+      "description": "HATTIMIZ RING HAT OLUP OGRETMENEVI'NDEN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "OGRETMENEVI"
+    },
+    {
+      "busNumber": 653,
+      "busMap": "OTOGAR - TEPEKOY",
+      "busMapDescription": "Hastane-Cezaevi",
+      "description": "HATTIMIZ RING HAT OLUP TEPEKOY'DEN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "OTOGAR",
+      "busFinishPoint": "TEPEKOY"
+    },
+    {
+      "busNumber": 656,
+      "busMap": "DEVLET HASTANESI - DIKILISULTAN",
+      "busMapDescription": "Pazaryeri-Carsi",
+      "description": "HATTIMIZ RING HAT OLUP, DIKILISULTAN'DAN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "DEVLET HASTANESI",
+      "busFinishPoint": "DIKILISULTAN"
+    },
+    {
+      "busNumber": 657,
+      "busMap": "MALTEPE - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "VILLAKENT-VILLAKENT ANADOLU LISESI-KESIK",
+      "description": null,
+      "busStartPoint": "MALTEPE",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 658,
+      "busMap": "TOKI - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "ASARLIK TOKI EVLERI-80. YIL CADDESI-MENEMEN DEVLET HASTANESI",
+      "description": null,
+      "busStartPoint": "TOKI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 660,
+      "busMap": "YENI FOCA - IZMIR OTOGAR",
+      "busMapDescription": "KARAGOZ CADDESI-ANADOLU CADDESI-ANKARA CADDESI",
+      "description": null,
+      "busStartPoint": "YENI FOCA",
+      "busFinishPoint": "OTOGAR"
+    },
+    {
+      "busNumber": 662,
+      "busMap": "CENGIZHAN - KEMER",
+      "busMapDescription": "ADLIYE - MERSINLI - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "CENGIZHAN",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 664,
+      "busMap": "YENI FOCA - ESKI FOCA",
+      "busMapDescription": "MERSINAKI CADDESI-FOCA KAYMAKAMLIK",
+      "description": null,
+      "busStartPoint": "YENI FOCA",
+      "busFinishPoint": "ESKI FOCA"
+    },
+    {
+      "busNumber": 665,
+      "busMap": "YENI FOCA - SITELER",
+      "busMapDescription": "BURUNUCU-YENI FOCA STADI",
+      "description": "HATTIMIZ RING HAT OLUP SITELERDEN SAAT UYGULAMASI YOKTUR.Carsamba gunleri Pazar kurulmasi nedeniyle Terminal, Dogan Cingil ve Osmangazi duraklarimiz kullanim disi kalmaktadir.",
+      "busStartPoint": "YENI FOCA",
+      "busFinishPoint": "SITELER"
+    },
+    {
+      "busNumber": 666,
+      "busMap": "YENI FOCA - KOZBEYLI",
+      "busMapDescription": "KARAGOZ CADDESI-KOZBEYLI MEYDAN",
+      "description": null,
+      "busStartPoint": "YENI FOCA",
+      "busFinishPoint": "KOZBEYLI"
+    },
+    {
+      "busNumber": 668,
+      "busMap": "NAZARKOY - KEMALPASA",
+      "busMapDescription": "CINILIKOY-ATATURK BULVARI",
+      "description": "Yaz Doneminde (15 Mayis - 15 Eylul) 10.00 - 20.00 saatleri, Kis doneminde (15 Eylul - 15 Mayis ) 10.00 - 18.00 saatleri arasinda hafta sonlari ve tatil gunlerinde araclarin Nazarkoy kavsagindan geriye donulerek ilk kalkis yeri 31660 id no.lu Nazar Koy duragi olacak sekilde calisacaktir.",
+      "busStartPoint": "NAZARKOY",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 671,
+      "busMap": "SIRINYER AKTARMA MERKEZI - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "AKINCILAR MAH.- CENNETCESME - CEVREYOLU",
+      "description": null,
+      "busStartPoint": "SIRINYER AKTARMA",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 675,
+      "busMap": "SEFERIHISAR - F.ALTAY AKT. MER. EKSPRES",
+      "busMapDescription": "CEVREYOLU",
+      "description": null,
+      "busStartPoint": "SEFERIHISAR",
+      "busFinishPoint": "F.ALTAY AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 676,
+      "busMap": "TINAZTEPE - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "KURUCESME -YILDIZ MAH.- MENDERES CAD",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 678,
+      "busMap": "ALANKIYI-BAYINDIR",
+      "busMapDescription": "KIZILOBA - SARIYURT",
+      "description": null,
+      "busStartPoint": "ALANKIYI",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 679,
+      "busMap": "SARIYURT-BAYINDIR",
+      "busMapDescription": "KIZILOBA-SARIYURT",
+      "description": null,
+      "busStartPoint": "SARIYURT",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 680,
+      "busMap": "BOZYAKA - LOZAN MEYDANI",
+      "busMapDescription": "ESREFPASA-IKICESMELIK",
+      "description": "BOZYAKA'DAN HAFTA ICI GUNLERI 06:01,06:20,06:41,07:00,07:20,07:41,08:00,08:20,08:35 SERVISLERI KARASELVIDEN BASLAMAKTADIR.",
+      "busStartPoint": "BOZYAKA",
+      "busFinishPoint": "LOZAN MEYDANI"
+    },
+    {
+      "busNumber": 681,
+      "busMap": "F.ALTAY - LOZAN MEYDANI",
+      "busMapDescription": "INONU CAD.-UCYOL-IKICESMELIK",
+      "description": null,
+      "busStartPoint": "F.ALTAY AKT.",
+      "busFinishPoint": "LOZAN MEYDANI"
+    },
+    {
+      "busNumber": 684,
+      "busMap": "URLA - F.ALTAY AKT. MER. EKSPRES",
+      "busMapDescription": "URLA DEVLET HASTANESI - CEVREYOLU",
+      "description": null,
+      "busStartPoint": "URLA",
+      "busFinishPoint": "F.ALTAY AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 690,
+      "busMap": "TINAZTEPE - F.ALTAY ",
+      "busMapDescription": "OTOYOL",
+      "description": null,
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 691,
+      "busMap": "GAZIEMIR - LOZAN MEYDAN",
+      "busMapDescription": "KARABAGLAR - IKICESMELIK",
+      "description": null,
+      "busStartPoint": "GAZIEMIR",
+      "busFinishPoint": "LOZAN MEYDANI"
+    },
+    {
+      "busNumber": 692,
+      "busMap": "KARAKUYU - PANCAR AKTARMA",
+      "busMapDescription": "GOL SOKAK",
+      "description": null,
+      "busStartPoint": "KARAKUYU",
+      "busFinishPoint": "PANCAR AKTARMA"
+    },
+    {
+      "busNumber": 693,
+      "busMap": "ZEYTINKOY - SELCUK",
+      "busMapDescription": "SELCUK YOLU CADDESI - SELCUK IZMIR YOLU",
+      "description": null,
+      "busStartPoint": "ZEYTINKOY",
+      "busFinishPoint": "SELCUK"
+    },
+    {
+      "busNumber": 694,
+      "busMap": "HAVUTCULU - SELCUK",
+      "busMapDescription": "IZMIR AYDIN YOLU",
+      "description": null,
+      "busStartPoint": "HAVUTCULU",
+      "busFinishPoint": "SELCUK"
+    },
+    {
+      "busNumber": 695,
+      "busMap": "ULUKENT KOOP - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "ULUKENT AKTARMA - 7617 SK. - 9501 SK.",
+      "description": null,
+      "busStartPoint": "ULUKENT KOOP",
+      "busFinishPoint": "EGEKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 697,
+      "busMap": "BEYDAG - IZMIR OTOGAR",
+      "busMapDescription": "KAYMAKCI-OPTIMUM ALISVERIS MERKEZI",
+      "description": "Hattimiz Iztasit Tarafindan isletilmektedir. ESHOT otogar son duragini kullanmaktadir.",
+      "busStartPoint": "BEYDAG",
+      "busFinishPoint": "IZMIR OTOGAR"
+    },
+    {
+      "busNumber": 698,
+      "busMap": "ASARLIK TOPLU KONUTLARI - ULUKENT AKTARMA MERKEZI 1",
+      "busMapDescription": "KOYUNDERE",
+      "description": null,
+      "busStartPoint": "ASARLIK TOPLU KONUTLARI",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 699,
+      "busMap": "M.ERENER - KEMER",
+      "busMapDescription": "BAYRAKLI SEHIR HASTANESI - CAY MAH. - ADLIYE - YENISEHIR HASTANELER",
+      "description": null,
+      "busStartPoint": "M.ERENER",
+      "busFinishPoint": "KEMER AKT."
+    },
+    {
+      "busNumber": 701,
+      "busMap": "TORBALI - TEKELI",
+      "busMapDescription": "TEPEKOY AKT. - KUSCUBURUN - AYRANCILAR - PANCAR",
+      "description": null,
+      "busStartPoint": "TORBALI",
+      "busFinishPoint": "TEKELI"
+    },
+    {
+      "busNumber": 705,
+      "busMap": "AYRANCILAR - SARNIC AKTARMA MERKEZI",
+      "busMapDescription": "AYRANCILAR - YESILKOY",
+      "description": null,
+      "busStartPoint": "AYRANCILAR",
+      "busFinishPoint": "SARNIC AKT."
+    },
+    {
+      "busNumber": 707,
+      "busMap": "PANCAR AKTARMA MERKEZI - MENDERES",
+      "busMapDescription": "Y.BULGURCA - OGLANANASI - KISIKKOY - CUMAOVASI AKT.",
+      "description": null,
+      "busStartPoint": "PANCAR",
+      "busFinishPoint": "MENDERES"
+    },
+    {
+      "busNumber": 709,
+      "busMap": "DEMIRCI - PANCAR AKTARMA MERKEZI",
+      "busMapDescription": "YOGURTCULAR - AYRANCILAR",
+      "description": null,
+      "busStartPoint": "DEMIRCI",
+      "busFinishPoint": "PANCAR"
+    },
+    {
+      "busNumber": 710,
+      "busMap": "YAZIBASI - KUSCUBURUN AKTARMA MERKEZI",
+      "busMapDescription": "KUSCUBURUN",
+      "description": null,
+      "busStartPoint": "YAZIBASI",
+      "busFinishPoint": "KUSCUBURUN AKTARMA"
+    },
+    {
+      "busNumber": 712,
+      "busMap": "PANCAR AKTARMA - TORBALI",
+      "busMapDescription": "AYRANCILAR - BAHCELIEVLER TOKI - KUSCUBURUN",
+      "description": null,
+      "busStartPoint": "PANCAR AKTARMA",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 713,
+      "busMap": "DEU MESLEK YUKSEK OKULU - TORBALI",
+      "busMapDescription": "DEVLET HASTANESI-TEPEKOY AKT-CAYBASI",
+      "description": null,
+      "busStartPoint": "DEU MESLEK YUKSEK OKULU",
+      "busFinishPoint": "TORBALI"
+    },
+    {
+      "busNumber": 714,
+      "busMap": "DEU MESLEK YUKSEK OKULU - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "Devlet hastanesi - Tepekoy Aktarma - Haluk Alpsu Bulvari",
+      "description": null,
+      "busStartPoint": "DEU MESLEK YUKSEK OKULU",
+      "busFinishPoint": "TORBALI"
+    },
+    {
+      "busNumber": 715,
+      "busMap": "DEU MESLEK YUKSEK OKULU - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "DEVLET HAS.-ATATURK MH.-TEPEKOY AKT.",
+      "description": null,
+      "busStartPoint": "DEU MESLEK YUKSEK OKULU",
+      "busFinishPoint": "TORBALI AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 719,
+      "busMap": "CAPAK - TORBALI",
+      "busMapDescription": "TEPEKOY AKTARMA - CAYBASI",
+      "description": null,
+      "busStartPoint": "CAPAK",
+      "busFinishPoint": "TORBALI"
+    },
+    {
+      "busNumber": 721,
+      "busMap": "KARAKUYU - TORBALI",
+      "busMapDescription": "FIDANLIK - KEMALPASA YOLU",
+      "description": null,
+      "busStartPoint": "KARAKUYU",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 722,
+      "busMap": "YAZIBASI - TORBALI",
+      "busMapDescription": "KUSCUBURUN",
+      "description": null,
+      "busStartPoint": "YAZIBASI",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 724,
+      "busMap": "SEHITLER - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "EGERCILER -CAYBASI",
+      "description": null,
+      "busStartPoint": "SEHITLER",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 727,
+      "busMap": "BAYINDIR - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "CANLI - CIRPI - HASKOY - YENIKOY",
+      "description": null,
+      "busStartPoint": "BAYINDIR",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 728,
+      "busMap": "KISIK SANAYI - SARNIC AKTARMA MERKEZI",
+      "busMapDescription": "ORMAN SAHASI - BELEDIYE GARAJI-SAGLIK OCAGI",
+      "description": null,
+      "busStartPoint": "KISIK SANAYI",
+      "busFinishPoint": "SARNIC AKT."
+    },
+    {
+      "busNumber": 729,
+      "busMap": "ATAKOY - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "CAMONU-DEGIRMENDERE-CILEME",
+      "description": null,
+      "busStartPoint": "ATAKOY",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 732,
+      "busMap": "SEFERIHISAR - URLA",
+      "busMapDescription": "ULAMIS-TURGUT-IHSANIYE - BADEMLER",
+      "description": null,
+      "busStartPoint": "SEFERIHISAR",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 733,
+      "busMap": "YAGCILAR - URLA",
+      "busMapDescription": "DEMIRCILI-KUSCULAR-CAMI ATIK MAH.",
+      "description": null,
+      "busStartPoint": "YAGCILAR",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 734,
+      "busMap": "OZBEK - URLA",
+      "busMapDescription": "OZBEK YOLU-AHMET BESIM UYSAL CAD.-ERDOGAN KER CAD.",
+      "description": null,
+      "busStartPoint": "OZBEK",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 737,
+      "busMap": "KADIOVACIK - URLA",
+      "busMapDescription": "BARBAROS-BIRGI-UZUNKUYU",
+      "description": null,
+      "busStartPoint": "KADIOVACIK",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 738,
+      "busMap": "CESMEALTI - URLA",
+      "busMapDescription": "YALI CAD.-MITHATPASA CAD.-BINEVLER",
+      "description": null,
+      "busStartPoint": "CESMEALTI",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 741,
+      "busMap": "YAMANLAR KOYU - KARSIYAKA",
+      "busMapDescription": "YENI GIRNE - GIRNE",
+      "description": null,
+      "busStartPoint": "YAMANLAR KOYU",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 742,
+      "busMap": "SANCAKLI KOYU - KARSIYAKA",
+      "busMapDescription": "DOGANCAY - KUBILAY CAD. - GIRNE",
+      "description": null,
+      "busStartPoint": "SANCAKLI KOYU",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 743,
+      "busMap": "TIRE - SELCUK",
+      "busMapDescription": "Selcuk Cad. - Tire Yolu - Belevi",
+      "description": null,
+      "busStartPoint": "TIRE",
+      "busFinishPoint": "SELCUK"
+    },
+    {
+      "busNumber": 744,
+      "busMap": "FOCA - HATUNDERE AKTARMA MERKEZI",
+      "busMapDescription": "BAGARASI",
+      "description": "ILCE PAZARININ OLDUGU SALI GUNLERI  GIDIS  DEGIRMENLIK CADDESI , HACI LIMANI KUME EVLERI SOKAK - MEVCUT GUZERGAHIN DEVAMI  DONUS  MEVCUT GUZERGAHI TAKIBEN , HACI LIMANI KUME EVLERI SOKAK , DEGIRMENLIK CADDESI ,1. SOKAK , DEGIRMENLIK CADDESI   Hizmet verecek  sekilde yeniden duzenlenmistir. Hattimiz Aktarma Merkezinden Kalkislarda IZBAN Gelis saatlerine gore hareket ettiginden planlanan hareket saatlerinde gecikmeler yasanabilmektedir.",
+      "busStartPoint": "FOCA",
+      "busFinishPoint": "HATUNDERE AKT."
+    },
+    {
+      "busNumber": 745,
+      "busMap": "YENI FOCA - BICEROVA AKTARMA MERKEZI",
+      "busMapDescription": "CUMHURIYET MAH.",
+      "description": "Carsamba gunleri Pazar kurulmasi nedeniyle Oruc Reis, Dogan Cingil ve Osmangazi duraklarimiz kullanim disi kalmaktadir. Hattimiz Aktarma Merkezinden Kalkislarda IZBAN Gelis saatlerine gore hareket ettiginden planlanan hareket saatlerinde gecikmeler yasanabilmektedir.",
+      "busStartPoint": "YENIFOCA",
+      "busFinishPoint": "BICEROVA AKT."
+    },
+    {
+      "busNumber": 746,
+      "busMap": "CAKMAKLI - BICEROVA AKTARMA MERKEZI",
+      "busMapDescription": "Sanayi yolu",
+      "description": null,
+      "busStartPoint": "CAKMAKLI",
+      "busFinishPoint": "BICEROVA AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 747,
+      "busMap": "EMIRALEM - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "KIR MAHALLE - MENEMEN DEVLET HASTANESI",
+      "description": null,
+      "busStartPoint": "EMIRALEM",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 748,
+      "busMap": "ULUKENT AKTARMA MERKEZI 1- MENEMEN AKTARMA MERKEZI ",
+      "busMapDescription": "KOYUNDERE - ASARLIK - MENEMEN DEVLET HASTANESI",
+      "description": null,
+      "busStartPoint": "ULUKENT AKTARMA MERKEZI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 749,
+      "busMap": "ULUKENT AKTARMA MERKEZI 1 - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "CANAKKALE YOLU",
+      "description": null,
+      "busStartPoint": "ULUKENT AKTARMA MERKEZI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 750,
+      "busMap": "YENI FOCA - ULUKENT AKTARMA MERKEZI 2",
+      "busMapDescription": "MALTEPE - SEYREK",
+      "description": null,
+      "busStartPoint": "YENI FOCA",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 751,
+      "busMap": "SASALI - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "ESKI HAVAALANI CAD.",
+      "description": "Hafta ici gunlerinde Cigliden 06:44 Sasali'dan 07:30 yapan arac ile Cigliden 16:30 Sasali'dan 17:15 yapan araclar Tuzlaya ugrar. Aksam Cigli'den 19:45 ve Sasali'dan 19:40 servislerinden sonra Dogal Yasam Parkina girmez.",
+      "busStartPoint": "SASALI",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 752,
+      "busMap": "BURUNCUK - HATUNDERE AKTARMA MERKEZI",
+      "busMapDescription": "TURKELLI - HELVACI ? HATUNDERE",
+      "description": null,
+      "busStartPoint": "BURUNCUK",
+      "busFinishPoint": "HATUNDERE AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 753,
+      "busMap": "GOKTEPE - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "EMIRALEM",
+      "description": null,
+      "busStartPoint": "GOKTEPE",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 754,
+      "busMap": "BOZALAN - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "TELEKLER - SULEYMANLI ? EMIRALEM",
+      "description": null,
+      "busStartPoint": "BOZALAN",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 755,
+      "busMap": "SULEYMANLI - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "GORECE - BELEN - HAYKIRAN ? HASANLAR",
+      "description": null,
+      "busStartPoint": "SULEYMANLI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 756,
+      "busMap": "KOZBEYLI - MENEMEN AKTARMA ",
+      "busMapDescription": "YENIKOY-GERENKOY-MALTEPE",
+      "description": null,
+      "busStartPoint": "KOZBEYLI",
+      "busFinishPoint": "MENEMEN AKTARMA"
+    },
+    {
+      "busNumber": 757,
+      "busMap": "MALTEPE - ULUKENT AKTARMA MERKEZI 2",
+      "busMapDescription": "SEYREK - VILLAKENT",
+      "description": "HAFTA ICI GUNLERI ULUKENT AKTARMA MERKEZINDEN 08:20 SERVISI VILLAKENT ANADOLU LISESINDE SON DURAK YAPAR. MALTEPE'DEN 16:05 VE 16:08 SERVISLERI VILLAKENT ANADOLU LISESINDEN BASLAR.",
+      "busStartPoint": "MALTEPE",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 758,
+      "busMap": "CUKURKOY - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "BELEN- DOGAKOY- YANIKKOY",
+      "description": null,
+      "busStartPoint": "CUKURKOY",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 759,
+      "busMap": "KARAORMAN - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "CALTI ALANICI-AYVACIK",
+      "description": null,
+      "busStartPoint": "KARAORMAN",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 760,
+      "busMap": "CESME-URLA",
+      "busMapDescription": "ILICA-UZUNKUYU-ICMELER",
+      "description": null,
+      "busStartPoint": "CESME",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 761,
+      "busMap": "KARABURUN-URLA",
+      "busMapDescription": "MORDOGAN-GULBAHCE",
+      "description": "20.01.2022 tarih ve 2022\/50 sayili Ukome Kararinca Mordogan, Ataturk Caddesinin Cumhuriyet Meydani ile 124 Sokak arasinda kalan kismi gun icerisinde trafige kapatilacak olup kapali oldugu surece \"Mordogan Iskele\" duragimizdan hizmet verilemeyecektir. ",
+      "busStartPoint": "KARABURUN",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 762,
+      "busMap": "GUZELBAHCE - URLA",
+      "busMapDescription": "YELKI - DADASKENT",
+      "description": null,
+      "busStartPoint": "GUZELBAHCE",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 763,
+      "busMap": "DUVERLIK - TORBALI",
+      "busMapDescription": "Camlica Mezarlik-Tastepe",
+      "description": null,
+      "busStartPoint": "DUVERLIK",
+      "busFinishPoint": "TORBALI"
+    },
+    {
+      "busNumber": 766,
+      "busMap": "ANSIZCA - KEMALPASA",
+      "busMapDescription": "KUYUCAK - DAMLACIK - ULUCAK",
+      "description": null,
+      "busStartPoint": "ANSIZCA",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 767,
+      "busMap": "HALILBEYLI - KEMALPASA",
+      "busMapDescription": "BAGYURDU - ARMUTLU - ORNEKKOY",
+      "description": null,
+      "busStartPoint": "HALILBEYLI",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 768,
+      "busMap": "VISNELI - KEMALPASA",
+      "busMapDescription": "CUMALI - GOKYAKA - DEREKOY",
+      "description": null,
+      "busStartPoint": "VISNELI",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 769,
+      "busMap": "CAMBEL - KEMALPASA",
+      "busMapDescription": "AKALAN - SUTCULER - ASAGI YENMIS",
+      "description": null,
+      "busStartPoint": "CAMBEL",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 770,
+      "busMap": "SELCUK - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "CAYBASI - PAMUKYAZI - SAGLIK",
+      "description": "Pazar gunleri Pazar kurulmasi nedeniyle hattimiz Belevi Duragi'ndan donus yapmaktadir.",
+      "busStartPoint": "SELCUK",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 772,
+      "busMap": "BESPINAR - KEMALPASA",
+      "busMapDescription": "SUTCULER-TASLIYOL KUME SK.-KIRAZLI CAD.-IZMIR CD.",
+      "description": null,
+      "busStartPoint": "BESPINAR",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 774,
+      "busMap": "TIRE TOPLU KONUTLAR - KAHRAT",
+      "busMapDescription": "GOKCEN - TIRE MEYDAN - ISTASYON",
+      "description": null,
+      "busStartPoint": "TIRE TOPLU KONUTLAR",
+      "busFinishPoint": "KAHRAT"
+    },
+    {
+      "busNumber": 775,
+      "busMap": "OZDERE - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "ORTAMAHALLE - AHMETBEYLI-MENDERES",
+      "description": null,
+      "busStartPoint": "OZDERE",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 776,
+      "busMap": "DOGANBEY - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "URKMEZ-GUMULDUR",
+      "description": null,
+      "busStartPoint": "DOGANBEY",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 777,
+      "busMap": "DOGAL YASAM PARKI - KARSIYAKA",
+      "busMapDescription": "ATAKENT",
+      "description": null,
+      "busStartPoint": "DOGAL YASAM PARKI",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 778,
+      "busMap": "OZDERE - URKMEZ",
+      "busMapDescription": "CUMHURIYET MAH.-ORTA MAH. - GUMULDUR",
+      "description": null,
+      "busStartPoint": "OZDERE",
+      "busFinishPoint": "URKMEZ"
+    },
+    {
+      "busNumber": 780,
+      "busMap": "BULBULDERE - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "GOLLUCE-ATALAN",
+      "description": null,
+      "busStartPoint": "BULBULDERE",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 781,
+      "busMap": "TULUMKOY - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "NAIME-SUBASI-PAMUKYAZI",
+      "description": null,
+      "busStartPoint": "TULUMKOY",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 782,
+      "busMap": "TASKESIK - TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "ASLANLAR - SEHITLER-EGERCI",
+      "description": null,
+      "busStartPoint": "TASKESIK",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 783,
+      "busMap": "BELEVI - TORBALI",
+      "busMapDescription": "SAGLIK",
+      "description": null,
+      "busStartPoint": "BELEVI",
+      "busFinishPoint": "TORBALI"
+    },
+    {
+      "busNumber": 784,
+      "busMap": "DOGANCILAR - TORBALI",
+      "busMapDescription": "DAGKIZILCA-CAKIRBEYLI-SAIPLER",
+      "description": null,
+      "busStartPoint": "DOGANCILAR",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 785,
+      "busMap": "DAGTEKKE - TORBALI",
+      "busMapDescription": "HELVACI-ORMANKOY-DIRMIL-KARAKUYU",
+      "description": null,
+      "busStartPoint": "DAGTEKKE",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 786,
+      "busMap": "KARAOT - TORBALI",
+      "busMapDescription": "KARAKIZLAR - DUVERLIK - CAMLICA",
+      "description": null,
+      "busStartPoint": "KARAOT",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 787,
+      "busMap": "OSMANLAR - BAYINDIR",
+      "busMapDescription": "CINARDIBI - DERNEKLI-KIZILCAOVA",
+      "description": null,
+      "busStartPoint": "OSMANLAR",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 788,
+      "busMap": "HAVUZBASI - BAYINDIR",
+      "busMapDescription": "ARIKBASI-CIFTCIGEDIGI-KIZILCAOVA",
+      "description": null,
+      "busStartPoint": "HAVUZBASI",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 789,
+      "busMap": "EFEMCUKURU - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "CATALCA-AKCAKOY",
+      "description": null,
+      "busStartPoint": "EFEMCUKURU",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 790,
+      "busMap": "HISARLIK - BAYINDIR",
+      "busMapDescription": "DEREKOY-ERGENLI KOYU-TURAN KOYU",
+      "description": null,
+      "busStartPoint": "HISARLIK",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 791,
+      "busMap": "CAMLIBEL - BAYINDIR",
+      "busMapDescription": "SOGUTOREN KOYU-FURUNLU KOY-ELIFLI KOYU",
+      "description": null,
+      "busStartPoint": "CAMLIBEL",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 792,
+      "busMap": "GOLOVA - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "CAKALTEPE-KARAKUYU-CILEME",
+      "description": null,
+      "busStartPoint": "GOLOVA",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 793,
+      "busMap": "BALCILAR - BAYINDIR",
+      "busMapDescription": "YAKAPINAR-CANLI-BAYINDIR YOLU",
+      "description": null,
+      "busStartPoint": "BALCILAR",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 794,
+      "busMap": "KUNER - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "KAYMAKAMLIK - MENDERES PAZAR YERI",
+      "description": null,
+      "busStartPoint": "KUNER",
+      "busFinishPoint": "CUMAOVASI AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 795,
+      "busMap": "ODEMIS-TORBALI",
+      "busMapDescription": "BAYINDIR-CANLI-ARIKBASI",
+      "description": null,
+      "busStartPoint": "ODEMIS",
+      "busFinishPoint": "CAYBASI"
+    },
+    {
+      "busNumber": 796,
+      "busMap": "BEYDAG-ODEMIS",
+      "busMapDescription": "CAYLI-KAYMAKCI-YOLUSTU",
+      "description": null,
+      "busStartPoint": "BEYDAG",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 798,
+      "busMap": "TIRE-TORBALI AKTARMA MERKEZI",
+      "busMapDescription": "YENICIFTLIK-SUBASI-CAYBASI",
+      "description": "Hafta ici gunlerde; Tire'den 08:30, 11:45 ve 14:45 servisleri, Torbali'dan 09:15, 13:20 ve 16:05 servisleri Tire Organize Sanayi Bolgesine ugrar.",
+      "busStartPoint": "TIRE",
+      "busFinishPoint": "TORBALI AKTARMA"
+    },
+    {
+      "busNumber": 799,
+      "busMap": "CATALCA - CUMAOVASI AKTARMA",
+      "busMapDescription": "AKCAKOY - MENDERES BELEDIYESI",
+      "description": null,
+      "busStartPoint": "CATALCA",
+      "busFinishPoint": "CUMAOVASI AKTARMA"
+    },
+    {
+      "busNumber": 800,
+      "busMap": "MENEMEN AKTARMA - BORNOVA METRO",
+      "busMapDescription": "ANADOLU CD. - ANKARA CD. YANYOL - EGE UNI.",
+      "description": null,
+      "busStartPoint": "MENEMEN AKTARMA",
+      "busFinishPoint": "BORNOVA METRO"
+    },
+    {
+      "busNumber": 801,
+      "busMap": "KIRAZ - BEYDAG",
+      "busMapDescription": "Kiraz Devlet Hastanesi-Ataturk Bulvari-Beydag Terminal",
+      "description": "Hattimiz Iztasit Tarafindan isletilmektedir.",
+      "busStartPoint": "KIRAZ",
+      "busFinishPoint": "BEYDAG"
+    },
+    {
+      "busNumber": 803,
+      "busMap": "KIRAZ - ODEMIS",
+      "busMapDescription": "Kiraz Terminal-Kaymakci-Odemis Devlet Hastanesi",
+      "description": "Hattimiz Iztasit Tarafindan isletilmektedir.",
+      "busStartPoint": "KIRAZ",
+      "busFinishPoint": "ODEMIS"
+    },
+    {
+      "busNumber": 804,
+      "busMap": "DEREKOY - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "MENDERES BELEDIYESI - MENDERES PAZARYERI",
+      "description": null,
+      "busStartPoint": "DEREKOY",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 805,
+      "busMap": "CAMLIKULE - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "CAMLIPINAR - UCKUYULAR MEYDAN - MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "CAMLIKULE",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 806,
+      "busMap": "KIRAZ - OTOGAR",
+      "busMapDescription": "Kiraz Terminal-Kaymakci-Optimum Alisveris Merkezi",
+      "description": "Hattimiz Iztasit Tarafindan isletilmektedir. ESHOT otogar son duragini kullanmaktadir.",
+      "busStartPoint": "KIRAZ",
+      "busFinishPoint": "OTOGAR"
+    },
+    {
+      "busNumber": 808,
+      "busMap": "CUMAOVASI AKTARMA MERKEZI - ESBAS AKTARMA MERKEZI",
+      "busMapDescription": "GORECE",
+      "description": null,
+      "busStartPoint": "CUMAOVASI AKT.",
+      "busFinishPoint": "ESBAS AKT"
+    },
+    {
+      "busNumber": 810,
+      "busMap": "ATATURK MAHALLESI - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "EVKA 5",
+      "description": "Olumsuz hava kosullarinda Dogan, Gezer, Zirve ve Izkent Son Durak duraklari kullanilmayacaktir.",
+      "busStartPoint": "ATATURK MAH.",
+      "busFinishPoint": "EGEKENT AKT."
+    },
+    {
+      "busNumber": 811,
+      "busMap": "ENGELLILER MERKEZI - MONTRO",
+      "busMapDescription": "MITHATPASA CAD.-INONU CAD.-MUSTAFA KEMAL SAHIL BULV.",
+      "description": null,
+      "busStartPoint": "ENGELLILER MERKEZI",
+      "busFinishPoint": "MONTRO"
+    },
+    {
+      "busNumber": 814,
+      "busMap": "MENDERES - CUMAOVASI AKTARMA MERKEZI",
+      "busMapDescription": "GAZIPASA MAHALLESI",
+      "description": null,
+      "busStartPoint": "MENDERES",
+      "busFinishPoint": "CUMAOVASI AKT."
+    },
+    {
+      "busNumber": 816,
+      "busMap": "CIGLI BOLGE EGITIM HASTANESI - EGEKENT AKTARMA MERKEZI",
+      "busMapDescription": "CIGLI BOLGE EGITIM HASTANESI-EGEKENT MAH.-IZKENT MAH.-ESENTEPE MAH.",
+      "description": "Olumsuz hava kosullarinda Dogan, Gezer, Zirve ve Izkent Son Durak duraklari kullanilmayacaktir.",
+      "busStartPoint": "CIGLI BOLGE EGITIM HASTANESI",
+      "busFinishPoint": "EGEKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 817,
+      "busMap": "EGEKENT AKTARMA MERKEZI - CIGLI AKTARMA MERKEZI",
+      "busMapDescription": "KATIP CELEBI UNIVERSITESI - BALATCIK MAH. - CIGLI BOLGE EGITIM HASTANESI",
+      "description": "Egitim Ogretimin uygulandigi Hafta ici gunlerinde Egekent Aktarma Merkezi ve Cigli Aktarma Merkezinden 07:30 - 09:00 ve 14:40 - 16:00 saatleri arasinda Tekel Ortaokuluna ugrar. ",
+      "busStartPoint": "EGEKENT AKT.",
+      "busFinishPoint": "CIGLI AKT."
+    },
+    {
+      "busNumber": 818,
+      "busMap": "ESBAS AKTARMA MERKEZI - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "BEYAZEVLER-GAZETECI YAZAR ISMAIL SIVRI BULV.-FORBES",
+      "description": null,
+      "busStartPoint": "ESBAS AKT",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 820,
+      "busMap": "HARMANDALI - BOSTANLI ISKELE",
+      "busMapDescription": "Cumhuriyet Mah. - Ugur Mumcu Mah. - Cigli - Atakent",
+      "description": null,
+      "busStartPoint": "HARMANDALI",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 821,
+      "busMap": "MAVISEHIR AKTARMA MERKEZI - BOSTANLI ISKELE",
+      "busMapDescription": "MAVISEHIR MAH.-ATAKENT MAH.-HASAN ALI YUCEL BUV.",
+      "description": null,
+      "busStartPoint": "MAVISEHIR AKT.",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 823,
+      "busMap": "UCYOL - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "BOZYAKA EGT.ARS.HAST.-ESKIIZMIR CAD.-CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "UCYOL METRO",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 826,
+      "busMap": "GAZI MAHALLESI - ULUKENT AKTARMA MERKEZI 1",
+      "busMapDescription": "EGEKENT 2 ISTASYON",
+      "description": null,
+      "busStartPoint": "GAZI MAHALLESI",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 827,
+      "busMap": "ULUKENT AKTARMA MERKEZI - BOSTANLI ISKELE",
+      "busMapDescription": "ULUKENT KOP. - CIGLI - ATAKENT",
+      "description": null,
+      "busStartPoint": "ULUKENT AKT.",
+      "busFinishPoint": "BOSTANLI ISKELE"
+    },
+    {
+      "busNumber": 828,
+      "busMap": "SARNIC - YENI CAMLIK",
+      "busMapDescription": "GAZIEMIR- AKCAY CAD.- SERBEST BOLGE",
+      "description": null,
+      "busStartPoint": "SARNIC",
+      "busFinishPoint": "YENI CAMLIK"
+    },
+    {
+      "busNumber": 829,
+      "busMap": "URKMEZ-CUMAOVASI AKTARMA",
+      "busMapDescription": "KUYUCAK - YENIKOY - DEREKOY",
+      "description": null,
+      "busStartPoint": "URKMEZ",
+      "busFinishPoint": "CUMAOVASI AKTARMA"
+    },
+    {
+      "busNumber": 831,
+      "busMap": "DEMIRCIDERE - BERGAMA",
+      "busMapDescription": "KAPLAN - AYVATLAR - YUKARIBEY",
+      "description": "Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir. 03.02.2025 tarihinden itibaren Saat 15:40 servisi Asagibey Okul duragindan baslayacak olup Asagicuma Okul duragina da hizmet verecektir.",
+      "busStartPoint": "DEMIRCIDERE",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 832,
+      "busMap": "YUKARICUMA - BERGAMA",
+      "busMapDescription": "ASAGICUMA - OKCULAR - INCECIKLER",
+      "description": "Hafta ici gunleri 07:20 servisi Yukaribey Cami duragindan baslamaktadir. 03.02.2025 tarihinden itibaren Saat 15:45 servisi Asagicuma Okul duragindan 831 No.lu \"Demircidere-Bergama\" hatti tarafindan yapilacaktir. Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "YUKARICUMA",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 833,
+      "busMap": "GUNESLI - BERGAMA",
+      "busMapDescription": "KARAVELILER - KAPIKAYA",
+      "description": "Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "GUNESLI",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 834,
+      "busMap": "YENI MAHALLE - ALIAGA AKTARMA MERKEZI",
+      "busMapDescription": "PAZAR YERI - ALIAGA DEVLET HAST. - ILCE MERKEZI",
+      "description": null,
+      "busStartPoint": "YENI MAHALLE",
+      "busFinishPoint": "ALIAGA AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 835,
+      "busMap": "BERGAMA - ALIAGA AKTARMA MERKEZI",
+      "busMapDescription": "KURFALLI-YENI SAKRAN-CALTIDERE",
+      "description": "Bergama Ilce Pazarinin Oldugu Carsamba Gunleri Donus- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Gidis- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir. Hattimiz Aktarma Merkezinden Kalkislarda IZBAN Gelis saatlerine gore hareket ettiginden planlanan hareket saatlerinde gecikmeler yasanabilmektedir.",
+      "busStartPoint": "BERGAMA",
+      "busFinishPoint": "ALIAGA"
+    },
+    {
+      "busNumber": 836,
+      "busMap": "KINIK-BERGAMA",
+      "busMapDescription": "BERGAMA DEVLET HASTANESI",
+      "description": "Bergama Ilce Pazarinin Oldugu Carsamba Gunu Gidis- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Donus- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "KINIK",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 837,
+      "busMap": "DIKILI-ALIAGA AKTARMA MERKEZI",
+      "busMapDescription": "CANDARLI-YENI SAKRAN-CALTIDERE",
+      "description": "HAFTAICI DIKILI'DEN 05:30 - 06:35 - 07:20 - 08:05 - 08:45 - 12:40 - 15:20- 16:00 - 16:45 -  19:20'DE, ALIAGA'DAN 06:45 - 07:10 -  08:23 - 12:23 - 13:40 - 15:11 -  16:23  - 17:40 - 18:23- 19:11 - 21:10 DA KALKAN ARACLAR, CUMARTESI DIKILI'DEN 05:40 - 07:20 - 13:30 - 18:45'DE, ALIAGA'DAN 07:10 - 12:50- 19:25 - 20:25'DE KALKAN ARACLAR, PAZAR DIKILI'DEN 05:40'DA KALKAN ARAC DELIKTAS'A UGRAR. HATTIMIZ AKTARMA MERKEZINDEN KALKISLARDA IZBAN GELIS SAATLERINE GORE HAREKET ETTIGINDEN PLANLANAN HAREKET SAATLERINDE GECIKMELER YASANABILMEKTEDIR.",
+      "busStartPoint": "DIKILI",
+      "busFinishPoint": "ALIAGA"
+    },
+    {
+      "busNumber": 838,
+      "busMap": "SIRINYER AKTARMA MERKEZI - GUMRUK",
+      "busMapDescription": "GUVEN MAH. -  GURCESME CAD.-BASMANE",
+      "description": "Hafta ici gunleri Sirinyer Aktarma Merkezi'nden 07.30, 07.42, 07.54, 08.02 ve 08.16 servisleri Camlik Cami Duragi'ndan baslar.",
+      "busStartPoint": "SIRINYER AKT.",
+      "busFinishPoint": "GUMRUK"
+    },
+    {
+      "busNumber": 839,
+      "busMap": "DIKILI DEVLET HASTANESI - DIKILI ILCE GARAJI",
+      "busMapDescription": "Bariskent - Dikili Ilce Merkezi",
+      "description": "HATTIMIZ RING HAT OLUP DIKILI DEVLET HASTANESINDEN SAAT UYGULAMASI YOKTUR",
+      "busStartPoint": "DIKILI DEVLET HASTANESI",
+      "busFinishPoint": "DIKILI ILCE GARAJI"
+    },
+    {
+      "busNumber": 842,
+      "busMap": "ZEYTINDAG - BERGAMA",
+      "busMapDescription": "YENIKENT - KURFALLI",
+      "description": "Ilce Pazarinin Oldugu Carsamba Gunleri Donus- Mevcut Guzergahi Takiben, Adnan Menderes Bulvari, Kavsaktan Donus, Adnan Menderes Bulvari, Fabrika Caddesi, Bergama Yeni Sondurak Gidis- Bergama Yeni Sondurak, Fabrika Caddesi, Adnan Menderes Bulvari, Mevcut Guzergahi Devami Hizmet Verecek Sekilde Yeniden Duzenlenmistir.",
+      "busStartPoint": "ZEYTINDAG",
+      "busFinishPoint": "BERGAMA"
+    },
+    {
+      "busNumber": 847,
+      "busMap": "POSTACILAR MAHALLESI - KARSIYAKA ISKELE",
+      "busMapDescription": "YENI GIRNE - GIRNE",
+      "description": null,
+      "busStartPoint": "BAYRAKLI EVLERI",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 848,
+      "busMap": "KOYUNDERE - ULUKENT AKTARMA MERKEZI 1",
+      "busMapDescription": "KOYUNDERE - EGEKENT 2 ISTASYON",
+      "description": null,
+      "busStartPoint": "KOYUNDERE",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 849,
+      "busMap": "YENI SAKRAN MAHALLESI - ALIAGA AKTARMA",
+      "busMapDescription": "SAKRAN CEZAEVI-CALTILIDERE- ALIAGA ILCE AKTARMA MERKEZI",
+      "description": null,
+      "busStartPoint": "YENI SAKRAN MAHALLESI",
+      "busFinishPoint": "ALIAGA AKTARMA"
+    },
+    {
+      "busNumber": 850,
+      "busMap": "TUZCULLU -SEYREK - ULUKENT AKTARMA MERKEZI 2",
+      "busMapDescription": "GUNERLI ? SEYREK ? BAKIRCAY UNIVERSITESI ",
+      "description": null,
+      "busStartPoint": "TUZCULLU",
+      "busFinishPoint": "ULUKENT AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 853,
+      "busMap": "EGEKENT AKTARMA MERKEZI - KARSIYAKA ISKELE",
+      "busMapDescription": "CIGLI - KARSIYAKA DEVLET HASTANESI - GIRNE",
+      "description": null,
+      "busStartPoint": "EGEKENT AKT.",
+      "busFinishPoint": "KARSIYAKA ISKELE"
+    },
+    {
+      "busNumber": 858,
+      "busMap": "BAYINDIR - IZMIR OTOGAR",
+      "busMapDescription": "CIRPI-HASKOY-YENI CIFTLIK",
+      "description": null,
+      "busStartPoint": "BAYINDIR",
+      "busFinishPoint": "IZMIR OTOGAR"
+    },
+    {
+      "busNumber": 865,
+      "busMap": "KIZILKECILI - BAYINDIR",
+      "busMapDescription": "LUTUFLAR-ZEYTINOVA",
+      "description": null,
+      "busStartPoint": "KIZILKECILI",
+      "busFinishPoint": "BAYINDIR"
+    },
+    {
+      "busNumber": 866,
+      "busMap": "BUCA TOPLU KONUTLARI - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "IL JANDARMA K.-ADATEPE - FORBES",
+      "description": null,
+      "busStartPoint": "BUCA TOPLU KONUTLARI",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 868,
+      "busMap": "MENEMEN PLASTIK IHTISAS ORGANIZE SANAYI - ATATURK MAHALLESI - MENEMEN AKTARMA MERKEZI",
+      "busMapDescription": "MENEMEN PLASTIK OSB-ATATURK MAH.",
+      "description": null,
+      "busStartPoint": "ORGANIZE SANAYI",
+      "busFinishPoint": "MENEMEN AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 871,
+      "busMap": "ISCIEVLERI - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "FEVZI CAKMAK CAD.-MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "ISCIEVLERI",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 872,
+      "busMap": "HACI SINAN - ISTASYON",
+      "busMapDescription": "TOKI-UCOLUK MEYDANI",
+      "description": "Hattimiz Pazar kurulmasi nedeniyle Cuma gunleri hizmet veremeyecektir.Ayrica hattimiz ring hat olup, Istasyon'dan saat uygulamasi yoktur.",
+      "busStartPoint": "HACISINAN",
+      "busFinishPoint": "ISTASYON"
+    },
+    {
+      "busNumber": 873,
+      "busMap": "YENITEPE EVLERI - FAHRETTIN ALTAY AKTARMA",
+      "busMapDescription": "YURTOGLU- UZUNDERE REK. ALANI - CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "YENITEPE EVLERI",
+      "busFinishPoint": "FAHRETTIN ALTAY AKT."
+    },
+    {
+      "busNumber": 874,
+      "busMap": "IZKENT - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "YAVUZ SULTAN SELIM CAD.-MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "IZKENT",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 875,
+      "busMap": "EVKA 1 - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "GAZIOSMANPASA CAD.-MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "EVKA-1",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 876,
+      "busMap": "SIRINKAPI - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "IESOB EML-MENDERES CAD.",
+      "description": null,
+      "busStartPoint": "SIRINKAPI",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 877,
+      "busMap": "UZUNDERE TOPLU KONUTLARI - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "CENNETCESME-ESKI IZMIR CAD.-CEVRE YOLU",
+      "description": null,
+      "busStartPoint": "UZUNDERE TOPLU KONUTLARI",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 878,
+      "busMap": "TINAZTEPE - SIRINYER AKTARMA MERKEZI",
+      "busMapDescription": "DOKUZ CESMELER - SEYFI DEMIRSOY HASTANESI - FORBES",
+      "description": "SAAT 22:00'DEN SONRA TINAZTEPE YERLESKESI ICERISINE HIZMET VERMEYECEKTIR",
+      "busStartPoint": "TINAZTEPE",
+      "busFinishPoint": "SIRINYER AKT."
+    },
+    {
+      "busNumber": 879,
+      "busMap": "F.ALTAY - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "POLAT CAD.- DOSTLUK BULV.-AKTEPE",
+      "description": null,
+      "busStartPoint": "F.ALTAY",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 881,
+      "busMap": "HACI SINAN - ISTASYON",
+      "busMapDescription": "TOKI-HUKUMET KONAGI-MENDERES BULVARI",
+      "description": "Hattimiz pazar kurulmasi nedeniyle sadece Cuma gunleri hizmet verecektir.Ayrica hattimiz ring hat olup, Istasyon'dan saat uygulamasi yoktur.",
+      "busStartPoint": "HACISINAN",
+      "busFinishPoint": "ISTASYON"
+    },
+    {
+      "busNumber": 882,
+      "busMap": "IYTE - URLA",
+      "busMapDescription": "Icmeler",
+      "description": null,
+      "busStartPoint": "I.Y.T.E",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 883,
+      "busMap": "IYTE - F.ALTAY AKT. MER. EKSPRES",
+      "busMapDescription": "EKSPRES HAT",
+      "description": null,
+      "busStartPoint": "IYTE",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 887,
+      "busMap": "SARNIC AKTARMA MERKEZI - KONAK",
+      "busMapDescription": "AKCAY CAD. - YESILLIK CAD. - UCYOL",
+      "description": null,
+      "busStartPoint": "SARNIC AKT.",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 889,
+      "busMap": "SARNIC - SARNIC AKTARMA MERKEZI",
+      "busMapDescription": "SARNIC MEYDAN-BELEDIYE GARAJI-PIKNIK ALANI",
+      "description": null,
+      "busStartPoint": "SARNIC",
+      "busFinishPoint": "SARNIC AKT."
+    },
+    {
+      "busNumber": 891,
+      "busMap": "EVKA 7 - GAZIEMIR SEMT GARAJI",
+      "busMapDescription": "ONDER CAD.-AKCAY CAD.-SERBEST BOLGE",
+      "description": null,
+      "busStartPoint": "EVKA-7",
+      "busFinishPoint": "GAZIEMIR SEMT GARAJI"
+    },
+    {
+      "busNumber": 906,
+      "busMap": "CESME - URLA",
+      "busMapDescription": "GERMIYAN - REISDERE",
+      "description": null,
+      "busStartPoint": "CESME",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 909,
+      "busMap": "ZEYTINALANI - F. ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "NARLIDERE-9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "ZEYTINALANI",
+      "busFinishPoint": "F. ALTAY AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 910,
+      "busMap": "GAZIEMIR - KONAK",
+      "busMapDescription": "KARABAGLAR-UCYOL-VARYANT",
+      "description": null,
+      "busStartPoint": "GAZIEMIR",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 912,
+      "busMap": "EGEKENT AKTARMA MERKEZI - ALSANCAK GAR",
+      "busMapDescription": "ANADOLU CAD.-ALTINYOL",
+      "description": null,
+      "busStartPoint": "EGEKENT AKTARMA",
+      "busFinishPoint": "ALSANCAK GAR"
+    },
+    {
+      "busNumber": 920,
+      "busMap": "CIGLI - KONAK",
+      "busMapDescription": "ANADOLUCAD.-SERINKUYU-GIRNE-ALTINYOL",
+      "description": null,
+      "busStartPoint": "CIGLI MERKEZ",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 930,
+      "busMap": "BORNOVA - KONAK",
+      "busMapDescription": "Manavkuyu-Adliye-Alsancak",
+      "description": null,
+      "busStartPoint": "BORNOVA",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 936,
+      "busMap": "KINIK - ALIAGA AKTARMA MERKEZI",
+      "busMapDescription": "Dundarli - Yayakent - Bergama",
+      "description": null,
+      "busStartPoint": "KINIK",
+      "busFinishPoint": "ALIAGA"
+    },
+    {
+      "busNumber": 940,
+      "busMap": "BUCA - KONAK",
+      "busMapDescription": "BUCA DEVL. HASTANESI.-MENDERES CD.-ESREFPASA-VARYANT-IKICESMELIK",
+      "description": null,
+      "busStartPoint": "BUCA",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 945,
+      "busMap": "ESENTEPE - UCKUYULAR ISKELE",
+      "busMapDescription": "MEHMETCIK BULV.",
+      "description": null,
+      "busStartPoint": "ESENTEPE",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 949,
+      "busMap": "CAMBEL - EVKA 3 METRO",
+      "busMapDescription": "CAMBEL TOPLU KONUTLAR - ANKARA CADDESI",
+      "description": null,
+      "busStartPoint": "CAMBEL",
+      "busFinishPoint": "EVKA 3 METRO"
+    },
+    {
+      "busNumber": 950,
+      "busMap": "NARLIDERE - KONAK",
+      "busMapDescription": "ATA CAD.-F.ALTAY-INONU CAD.",
+      "description": null,
+      "busStartPoint": "NARLIDERE",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 951,
+      "busMap": "HALKAPINAR METRO2-KONAK",
+      "busMapDescription": "ALSANCAK GAR - LOZAN MEYDANI - KAHRAMANLAR",
+      "description": null,
+      "busStartPoint": "HALKAPINAR METRO2",
+      "busFinishPoint": "KONAK"
+    },
+    {
+      "busNumber": 961,
+      "busMap": "ICMELER - URLA",
+      "busMapDescription": "Urla Devlet Hast. - Torosan",
+      "description": null,
+      "busStartPoint": "ICMELER",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 963,
+      "busMap": "EVKA 3 METRO - ALSANCAK GAR",
+      "busMapDescription": "BORNOVA MERKEZ - MANAVKUYU",
+      "description": null,
+      "busStartPoint": "EVKA 3 METRO",
+      "busFinishPoint": "ALSANCAK GAR"
+    },
+    {
+      "busNumber": 966,
+      "busMap": "ULUCAK - EVKA3 METRO",
+      "busMapDescription": "Turkan Ozilhan Dev. Hast.- 4. Sanayi - Adil Demir Sitesi",
+      "description": null,
+      "busStartPoint": "ULUCAK",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 967,
+      "busMap": "ARMUTLU - KEMALPASA",
+      "busMapDescription": "ASAGIKIZILCA-YUKARI KIZILCA-ORNEKKOY",
+      "description": null,
+      "busStartPoint": "ARMUTLU",
+      "busFinishPoint": "KEMALPASA"
+    },
+    {
+      "busNumber": 969,
+      "busMap": "BALCOVA - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "EKONOMI UNIVERSITESI-ATA CAD.",
+      "description": null,
+      "busStartPoint": "BALCOVA",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 971,
+      "busMap": "NARBEL - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "2. INONU MAH.-9 EYLUL HASTANESI-MITHATPASA CAD.",
+      "description": null,
+      "busStartPoint": "NARBEL",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 975,
+      "busMap": "SEFERIHISAR - F.ALTAY AKTARMA",
+      "busMapDescription": "NARLIDERE-9 EYLUL HASTANESI",
+      "description": "Hattimiz Iztasit Tarafindan Isletilmektedir.",
+      "busStartPoint": "SEFERIHSAR",
+      "busFinishPoint": "F.ALTAY AKTARMA"
+    },
+    {
+      "busNumber": 976,
+      "busMap": "MORDOGAN - KARABURUN",
+      "busMapDescription": "EGLENHOCA - INECIK - KOSEDERE",
+      "description": null,
+      "busStartPoint": "MORDOGAN",
+      "busFinishPoint": "KARABURUN"
+    },
+    {
+      "busNumber": 977,
+      "busMap": "IZMIR DEMOKRASI UNIVERSITESI - UCKUYULAR ISKELE",
+      "busMapDescription": "F.ALTAY-CEVRE YOLU-UZUNDERE KAVSAGI",
+      "description": null,
+      "busStartPoint": "DEMOKRASI UNIVERSITESI",
+      "busFinishPoint": "UCKUYULAR ISKELE"
+    },
+    {
+      "busNumber": 978,
+      "busMap": "PARLAK-URLA",
+      "busMapDescription": "KUCUKBAHCE-GULBAHCE-BALIKLIOVA",
+      "description": null,
+      "busStartPoint": "PARLAK",
+      "busFinishPoint": "URLA"
+    },
+    {
+      "busNumber": 979,
+      "busMap": "OMUR BELDESI - SEFERIHISAR",
+      "busMapDescription": "KOCACAY CD.-KUSADASI CD.",
+      "description": null,
+      "busStartPoint": "OMUR BELDESI",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 981,
+      "busMap": "BALIKLIOVA - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "KARAPINAR-NARLIDERE-9 EYLUL HASTANESI",
+      "description": null,
+      "busStartPoint": "BALIKLIOVA",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 982,
+      "busMap": "IYTE - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "ICMELER-NARLIDERE",
+      "description": null,
+      "busStartPoint": "I.Y.T.E.",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 983,
+      "busMap": "BADEMLER - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "CAMLI - YELKI - NARLIDERE",
+      "description": null,
+      "busStartPoint": "BADEMLER",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 984,
+      "busMap": "URLA - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "URLA DEVLET HASTANESI-URLA ISKELE-KALABAK-ZEYTINALANI",
+      "description": null,
+      "busStartPoint": "URLA",
+      "busFinishPoint": "F.ALTAY AKT."
+    },
+    {
+      "busNumber": 985,
+      "busMap": "SEFERIHISAR - F.ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "ULAMIS-NARLIDERE-9 EYLUL HASTANESI ",
+      "description": "Hattimiz Iztasit Tarafindan isletilmektedir",
+      "busStartPoint": "SEFERIHISAR",
+      "busFinishPoint": "F.ALTAY AKTARMA"
+    },
+    {
+      "busNumber": 986,
+      "busMap": "URKMEZ - SEFERIHISAR",
+      "busMapDescription": "GUMULDUR - CUMHURIYET MAHALLESI",
+      "description": "Hattimiz Iztasit Tarafindan Isletilmektedir",
+      "busStartPoint": "URKMEZ",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 987,
+      "busMap": "URKMEZ - F. ALTAY AKTARMA MERKEZI",
+      "busMapDescription": "GUMULDUR-SEFERIHISAR-NARLIDERE-9 EYLUL HASTANESI",
+      "description": "Hattimiz Iztasit Tarafindan Isletilmektedir",
+      "busStartPoint": "URKMEZ",
+      "busFinishPoint": "F. ALTAY AKTARMA MERKEZI"
+    },
+    {
+      "busNumber": 988,
+      "busMap": "KEMALPASA - EVKA3 METRO",
+      "busMapDescription": "BELKAHVE - TURKAN OZILHAN DEVLET HASTANESI - 4. SANAYI",
+      "description": "MILLI EGITIM BAKANLIGI'NA BAGLI ILKOGRETIM VE ORTAOGRETIM KURUMLARINDA YAZ TATILININ BASLAMASI SEBEBIYLE HATTIMIZ PAKMAYA ULKU HIZAL ANADOLU LISESINE HIZMET VERMEYECEKTIR.",
+      "busStartPoint": "KEMALPASA",
+      "busFinishPoint": "EVKA3 METRO"
+    },
+    {
+      "busNumber": 989,
+      "busMap": "ORHANLI - SEFERIHISAR",
+      "busMapDescription": "YENIKOY-PAYAMLI-OMUR BELDESI-DOGANBEY KOYU",
+      "description": null,
+      "busStartPoint": "ORHANLI",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 990,
+      "busMap": "BEYLER - SEFERIHISAR",
+      "busMapDescription": "KAVAKDERE -HIDIRLIK - TURABIYE",
+      "description": null,
+      "busStartPoint": "BEYLER",
+      "busFinishPoint": "SEFERIHISAR"
+    },
+    {
+      "busNumber": 991,
+      "busMap": "CAMTEPE - SEFERIHISAR",
+      "busMapDescription": "GODENCE - GOLCUK - ULAMIS",
+      "description": null,
+      "busStartPoint": "CAMTEPE",
+      "busFinishPoint": "SEFERIHISAR"
+    }
+  ]
+}

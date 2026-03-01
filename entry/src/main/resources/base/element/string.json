@@ -1,0 +1,125 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "NFC_CARD_EMULATION",
+      "value": "Required to enable contactless payment by emulating a secure NFC card during transactions."
+    },
+    {
+      "name": "NFC_TAG",
+      "value": "Needed to read NFC tags and interact with contactless payment terminals."
+    },
+    {
+      "name": "payment_checking_nfc",
+      "value": "Checking NFC..."
+    },
+    {
+      "name": "payment_nfc_not_available",
+      "value": "NFC Not Available"
+    },
+    {
+      "name": "payment_nfc_disabled",
+      "value": "NFC is Disabled"
+    },
+    {
+      "name": "payment_ready_to_pay",
+      "value": "Ready to Pay"
+    },
+    {
+      "name": "payment_processing",
+      "value": "Processing payment..."
+    },
+    {
+      "name": "payment_no_support_message",
+      "value": "This device does not support NFC payments"
+    },
+    {
+      "name": "payment_disabled_message",
+      "value": "Please enable NFC to continue with contactless payment"
+    },
+    {
+      "name": "payment_do_not_move",
+      "value": "Do not move your watch"
+    },
+    {
+      "name": "payment_hold_near_pos",
+      "value": "Hold watch near POS terminal"
+    },
+    {
+      "name": "payment_continue_qr",
+      "value": "Continue with QR"
+    },
+    {
+      "name": "payment_open_nfc_settings",
+      "value": "Open NFC Settings"
+    },
+    {
+      "name": "payment_success_title",
+      "value": "Payment Successful"
+    },
+    {
+      "name": "payment_failed_title",
+      "value": "Payment Failed"
+    },
+    {
+      "name": "payment_success_message",
+      "value": "Your payment has been processed successfully"
+    },
+    {
+      "name": "payment_failed_message",
+      "value": "Transaction could not be completed. Please try again or use QR code payment."
+    },
+    {
+      "name": "payment_done",
+      "value": "Done"
+    },
+    {
+      "name": "payment_try_again",
+      "value": "Try Again"
+    },
+    { "name": "page_title_announcements", "value": "Announcements" },
+    { "name": "label_start_date", "value": "Start" },
+    { "name": "label_end_date", "value": "End" },
+    { "name": "msg_loading", "value": "Loading announcements..." },
+    { "name": "msg_empty", "value": "No announcements found." },
+    {
+      "name": "welcome_title",
+      "value": "Welcome"
+    },
+    {
+      "name": "login_subtitle",
+      "value": "Sign in to access features"
+    },
+    {
+      "name": "login_button_text",
+      "value": "Log in with Huawei ID"
+    },
+    {
+      "name": "logout_button_text",
+      "value": "Logout"
+    },
+    {
+      "name": "login_success_greeting",
+      "value": "Hi, %s"
+    },
+    {
+      "name": "login_failed_message",
+      "value": "Login failed: %s"
+    },
+    {
+      "name": "default_user_name",
+      "value": "User"
+    }
+  ]
+}
