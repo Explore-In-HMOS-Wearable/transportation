@@ -1,5 +1,3 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
-
 # Transportation Smart Wearable
 
 **Transportation Smart Wearable** is a smart wearable transit application that displays bus and stop information

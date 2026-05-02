@@ -30,6 +30,12 @@ export class AudioUtils {
         rendererFlags: 0
       };
 
+      AudioUtils._avPlayer.on('audioOutputDeviceChangeWithInfo', () => {
+        hilog.info(DOMAIN, TAG, 'AVPlayer audioOutputDeviceChangeWithInfo');
+        AudioUtils._avPlayer?.pause();
+        AudioUtils._isPlaying = false;
+      });
+
       AudioUtils._avPlayer.on('stateChange', (state: string) => {
         hilog.info(DOMAIN, TAG, `AVPlayer state: ${state}`);
 
